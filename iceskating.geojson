@@ -1,0 +1,742 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-05-29T13:53:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302316585",
+        "addr:city": "Villingen-Schwenningen",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "78054",
+        "addr:street": "Zum Mooswäldle",
+        "addr:suburb": "Schwenningen",
+        "leisure": "ice_rink",
+        "name": "Eisstadion",
+        "opening_hours": "Dec 21-Mar 20 Mo 10:00-11:45,19:30-21:30; Dec 21-Mar 20 Tu-Fr 10:00-11:45,14:00-16:30,19:30-21:30; Dec 21-Mar 20 Sa 13:00-17:00,19:30-21:30; Dec 21-Mar 20 Su 13:00-17:00; Jan 01,Dec 24 off",
+        "seasonal": "yes",
+        "sport": "ice_skating",
+        "website": "https://www.kunsteisbahn-vs.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5290422,
+          48.0514312
+        ]
+      },
+      "id": "node/302316585"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302404619",
+        "leisure": "ice_rink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1050198,
+          47.89944
+        ]
+      },
+      "id": "node/302404619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339157955",
+        "addr:city": "Regen",
+        "addr:housenumber": "45",
+        "addr:street": "Poschetsrieder Straße",
+        "leisure": "ice_rink",
+        "name": "Eissportzentrum Franz-Zwiebel-Halle",
+        "sport": "skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1507313,
+          48.9630749
+        ]
+      },
+      "id": "node/339157955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/360273809",
+        "leisure": "ice_rink",
+        "opening_hours": "Sep-Apr: Mo,We 14:00-22:00; Th 14:00-21:00; Fr 14:00-23:00; Sa 10:00-23:00; Su 10:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7256902,
+          48.7900997
+        ]
+      },
+      "id": "node/360273809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367943791",
+        "leisure": "sports_centre",
+        "name": "Eissporthalle Rheine",
+        "sport": "ice_skating",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4555368,
+          52.2809272
+        ]
+      },
+      "id": "node/367943791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/393462700",
+        "leisure": "sports_centre",
+        "name": "GGI Eissporthalle",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7186777,
+          51.220796
+        ]
+      },
+      "id": "node/393462700"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/403806613",
+        "leisure": "ice_rink",
+        "name": "Natureisplatz \"Bad Wiessee\"",
+        "sport": "skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7217904,
+          47.7126036
+        ]
+      },
+      "id": "node/403806613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/686818360",
+        "building:roof": "permanent",
+        "leisure": "sports_centre",
+        "lit": "yes",
+        "name": "Eishalle Lauenau",
+        "sport": "ice_skating",
+        "surface": "ice",
+        "website": "https://www.eishalle-lauenau.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3726779,
+          52.2741116
+        ]
+      },
+      "id": "node/686818360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1363057497",
+        "indoor": "yes",
+        "leisure": "ice_rink",
+        "name": "Ice Arena",
+        "phone": "+49-6332-48179-77",
+        "sport": "ice_skating",
+        "website": "https://www.ice-arena.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4010239,
+          49.2298772
+        ]
+      },
+      "id": "node/1363057497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1626464085",
+        "name": "Bremer Eisverein - Semkenfahrt",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8190984,
+          53.1175622
+        ]
+      },
+      "id": "node/1626464085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1705235936",
+        "leisure": "ice_rink",
+        "name": "Wanderers",
+        "sport": "ice_hockey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3541457,
+          48.1139892
+        ]
+      },
+      "id": "node/1705235936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1858720688",
+        "leisure": "ice_rink",
+        "name": "Eislaufbahn",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1289448,
+          54.4320147
+        ]
+      },
+      "id": "node/1858720688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2682007503",
+        "addr:city": "Möhnesee",
+        "addr:housenumber": "4",
+        "addr:postcode": "59519",
+        "addr:street": "Teigelhof",
+        "leisure": "sports_centre",
+        "name": "Eissportzentrum Möhnesee",
+        "phone": "+49 2924 7200",
+        "sport": "ice_skating",
+        "website": "https://eissportzentrum.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1588918,
+          51.5151584
+        ]
+      },
+      "id": "node/2682007503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2728327410",
+        "leisure": "ice_rink",
+        "name": "Rollschuh, Eislaufplatz",
+        "seasonal": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7776256,
+          50.0185641
+        ]
+      },
+      "id": "node/2728327410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3244210895",
+        "contact:webcam": "http://webcam-baden-baden.de/",
+        "end_date": "2023-01-08",
+        "leisure": "ice_rink",
+        "phone": "+49 172 7484773",
+        "seasonal": "yes",
+        "start_date": "2021-11-18",
+        "xmas:day_date": "18.11.2022-08.01.2023",
+        "xmas:feature": "ice_rink",
+        "xmas:location": "Augustaplatz Baden-Baden",
+        "xmas:name": "Eisarena",
+        "xmas:opening_hours": "Mo-Th 12:00-20:00; Fr,Sa 12:00-22:00; Su 11:00-20:00",
+        "xmas:url": "https://eisarena-badenbaden.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2404654,
+          48.7587111
+        ]
+      },
+      "id": "node/3244210895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3382472405",
+        "addr:city": "Adelberg",
+        "addr:country": "DE",
+        "addr:housename": "Eishalle Sunrise",
+        "addr:housenumber": "3-5",
+        "addr:postcode": "73099",
+        "addr:street": "Klosterpark",
+        "leisure": "pitch",
+        "name": "Eishalle Sunrise",
+        "phone": "+49 7166 404",
+        "sport": "ice_skating",
+        "website": "http://www.sunrise-adelberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5931978,
+          48.7607448
+        ]
+      },
+      "id": "node/3382472405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3791874642",
+        "leisure": "ice_rink",
+        "lit": "yes",
+        "seasonal": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8604178,
+          50.0160418
+        ]
+      },
+      "id": "node/3791874642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3936734036",
+        "contact:website": "http://www.hansemuseum.eu/veranstaltungen-restaurant/weihnachtswunderland/",
+        "end_date": "2018-01-01",
+        "leisure": "pitch",
+        "opening_hours": "Mo-Th 11:00-19:00",
+        "seasonal": "yes",
+        "sport": "ice_skating",
+        "start_date": "2017-11-27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6894142,
+          53.8733685
+        ]
+      },
+      "id": "node/3936734036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4119248974",
+        "leisure": "ice_rink",
+        "name": "Eisweiher Anhausen",
+        "seasonal": "yes",
+        "sport": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.778167,
+          48.3433645
+        ]
+      },
+      "id": "node/4119248974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4245934111",
+        "leisure": "pitch",
+        "name": "Eislaufen",
+        "opening_hours": "Mo-Su \"siehe Webseite des Bereiches\"",
+        "seasonal": "winter",
+        "sport": "ice_skating",
+        "website": "http://www.hains.de/eislaufen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6206397,
+          50.9736386
+        ]
+      },
+      "id": "node/4245934111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598124163",
+        "description": "Städtische Spritzeisfläche, je nach Witterung",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.020461,
+          49.577545
+        ]
+      },
+      "id": "node/4598124163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598194352",
+        "sport": "ice_skating",
+        "website": "http://www.schlittschuhlaufen-erlangen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9580804,
+          49.6021134
+        ]
+      },
+      "id": "node/4598194352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598194353",
+        "sport": "ice_skating",
+        "website": "http://www.schlittschuhlaufen-erlangen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9956774,
+          49.5791793
+        ]
+      },
+      "id": "node/4598194353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4598194354",
+        "sport": "ice_skating",
+        "website": "http://www.schlittschuhlaufen-erlangen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0302486,
+          49.5516343
+        ]
+      },
+      "id": "node/4598194354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4674194895",
+        "building": "house",
+        "leisure": "ice_rink"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.716985,
+          53.8604557
+        ]
+      },
+      "id": "node/4674194895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5812444318",
+        "leisure": "ice_rink",
+        "name": "Eiswiese",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7911867,
+          50.0967104
+        ]
+      },
+      "id": "node/5812444318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6179571406",
+        "leisure": "ice_rink",
+        "name": "Eisteich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9231317,
+          50.3242159
+        ]
+      },
+      "id": "node/6179571406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6389446328",
+        "seasonal": "yes",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3321738,
+          48.1217787
+        ]
+      },
+      "id": "node/6389446328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6596311012",
+        "addr:city": "Leipzig",
+        "addr:housenumber": "38",
+        "addr:postcode": "04103",
+        "addr:street": "An den Tierkliniken",
+        "leisure": "ice_rink",
+        "name": "Eisarena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3895841,
+          51.3198282
+        ]
+      },
+      "id": "node/6596311012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044748877",
+        "charge": "7.50 EUR/Erwachsene; 5 EUR/Ermässigt",
+        "contact:facebook": "https://www.facebook.com/FilmparkBabelsberg",
+        "contact:instagram": "https://www.instagram.com/filmpark_babelsberg/",
+        "contact:twitter": "https://twitter.com/Filmpark",
+        "contact:website": "https://www.filmpark-babelsberg.de/eisbahn-im-filmpark-babelsberg/",
+        "contact:youtube": "https://www.youtube.com/channel/UCdP6mQSYwjOvqDjUkj4E_xQ",
+        "fee": "yes",
+        "leisure": "pitch",
+        "name": "Eisbahn in der Caligarihalle",
+        "opening_hours": "2019 Nov 30-2020 Mar 01 Fr 13:00-21:30, Sa 10:00-21:30, Su 10:00-18:30; 2019 Dec 05-19 Th 13:00-18:30; 2019 Dec 23,2020 Feb 03-06 10:00-18:30; 2019 Dec 25-26,2020 Jan 01 14:00-20:00",
+        "opening_hours:url": "https://www.filmpark-babelsberg.de/eisbahn-oeffnungszeiten/",
+        "operator": "Filmpark Babelsberg GmbH",
+        "operator:type": "business",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1168577,
+          52.3879004
+        ]
+      },
+      "id": "node/7044748877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7059981983",
+        "leisure": "pitch",
+        "opening_date": "winter",
+        "sport": "ice_skating",
+        "start_date": "2012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8964054,
+          51.7554143
+        ]
+      },
+      "id": "node/7059981983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7199859192",
+        "name": "Viking",
+        "shop": "sports",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7479551,
+          47.7617803
+        ]
+      },
+      "id": "node/7199859192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7385482303",
+        "addr:city": "Moers",
+        "addr:country": "DE",
+        "addr:housenumber": "140",
+        "addr:postcode": "47447",
+        "addr:street": "Filder Straße",
+        "leisure": "sports_centre",
+        "name": "ENNI Eiswelt",
+        "sport": "ice_skating",
+        "website": "https://www.enni.de/sport-baeder/sport/ennieiswelt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6197529,
+          51.4396451
+        ]
+      },
+      "id": "node/7385482303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7912673686",
+        "leisure": "ice_rink",
+        "survey:date": "2020-09-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2047557,
+          48.5034948
+        ]
+      },
+      "id": "node/7912673686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430333155",
+        "leisure": "pitch",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0734781,
+          48.0203366
+        ]
+      },
+      "id": "node/8430333155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8758907189",
+        "leisure": "ice_rink",
+        "name": "Rollsportanlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0181488,
+          50.3967997
+        ]
+      },
+      "id": "node/8758907189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9929580172",
+        "addr:city": "Dresden",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "01127",
+        "addr:street": "Hartigstraße",
+        "contact:email": "info@eiskunstlauf-shop.de",
+        "contact:phone": "+49 351 32939610",
+        "contact:website": "https://www.eiskunstlauf-shop.de/",
+        "name": "Ice Expression Eiskunstlauf Shop",
+        "opening_hours": "Mo-Tu 15:00-18:00; We off; Th-Fr 15:00-18:00; Sa 11:00-14:00",
+        "operator": "Romy Jaster",
+        "shop": "sports",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7276852,
+          51.0721435
+        ]
+      },
+      "id": "node/9929580172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10303211089",
+        "leisure": "ice_rink",
+        "name": "Kunsteisbahn",
+        "opening_hours": "Mo-Su 10:30-18:30; Fr-Sa 20:00-22:00; PH unknown",
+        "sport": "ice_hockey;ice_skating",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4714743,
+          50.1103106
+        ]
+      },
+      "id": "node/10303211089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10697790803",
+        "leisure": "ice_rink",
+        "name": "Winter - Eislaufbahn",
+        "sport": "ice_skating"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.016379,
+          50.4568746
+        ]
+      },
+      "id": "node/10697790803"
+    }
+  ]
+}
