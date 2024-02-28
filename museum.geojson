@@ -1,0 +1,4558 @@
+{
+    "type": "FeatureCollection",
+    "generator": "overpass-ide",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+    "timestamp": "2023-06-09T12:59:30Z",
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "@id": "node/171505753",
+                "museum": "history",
+                "name": "Museum für Grenze und Landwirtschaft",
+                "operator": "Museumsverein Böckwitz",
+                "operator:type": "public",
+                "tourism": "museum",
+                "wheelchair": "limited"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9439562,
+                    52.5696879
+                ]
+            },
+            "id": "node/171505753"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/252735131",
+                "addr:city": "Bremen",
+                "addr:housenumber": "3-5",
+                "addr:postcode": "28757",
+                "addr:street": "Im Dorfe",
+                "museum": "history",
+                "name": "Museum Schloss Schönebeck",
+                "opening_hours": "Tu,We,Sa,Su 15:00-17:00; Su 10:30-13:00",
+                "tourism": "museum",
+                "website": "https://museum-schloss-schoenebeck.de/",
+                "wikidata": "Q76633427"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6510915,
+                    53.181728
+                ]
+            },
+            "id": "node/252735131"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/253662021",
+                "addr:city": "Filderstadt",
+                "addr:housenumber": "19",
+                "addr:postcode": "70794",
+                "addr:street": "Klingenstraße",
+                "museum": "history",
+                "name": "FilderStadtMuseum",
+                "opening_hours": "Su 13:00-17:00",
+                "operator": "Stadt Filderstadt",
+                "operator:type": "public",
+                "phone": "+49 7158 8219",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.216126,
+                    48.6515754
+                ]
+            },
+            "id": "node/253662021"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/257424359",
+                "addr:city": "Krayenberggemeinde",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "36460",
+                "addr:street": "Zufahrtstraße",
+                "addr:suburb": "Merkers",
+                "museum": "history",
+                "name": "Erlebnisbergwerk Merkers",
+                "operator": "K+S KALI GmbH",
+                "operator:type": "private",
+                "phone": "+49 3695 614101",
+                "toilets:wheelchair": "no",
+                "tourism": "museum",
+                "website": "https://www.erlebnisbergwerk.de",
+                "wheelchair": "no",
+                "wikidata": "Q15051937",
+                "wikipedia": "de:Erlebnisbergwerk Merkers"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1228172,
+                    50.8209471
+                ]
+            },
+            "id": "node/257424359"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/274544264",
+                "addr:city": "Stuttgart",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "70173",
+                "addr:street": "Schillerplatz",
+                "museum": "history",
+                "name": "Haus der Musik",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Landesmuseum Württemberg",
+                "operator:type": "public",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.landesmuseum-stuttgart.de/ausstellungen/schausammlungen/musikinstrumente/",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1779226,
+                    48.7769673
+                ]
+            },
+            "id": "node/274544264"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/295659565",
+                "addr:city": "Seifhennersdorf",
+                "addr:housenumber": "21a",
+                "addr:postcode": "02782",
+                "addr:street": "Nordstraße",
+                "contact:phone": "03586451567",
+                "museum": "history",
+                "name": "Karasek-Museum",
+                "opening_hours": "Di-Fr 9:00-12:00, 13:00-16:30, Su 13:00-16:30",
+                "tourism": "museum",
+                "website": "https://www.karaseks-revier.de/",
+                "wikidata": "Q76638130"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6085227,
+                    50.9349933
+                ]
+            },
+            "id": "node/295659565"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/382398811",
+                "museum": "history",
+                "name": "Kornbrennerei-Museum",
+                "opening_hours": "Su 10:30-12:30 || \"Termin nach Vereinbarung\"",
+                "operator": "Heimatverein Saerbeck e.VG.",
+                "tourism": "museum",
+                "website": "https://www.heimatverein-saerbeck.de/index.php/museen/kornbrennerei-museum",
+                "wheelchair": "limited",
+                "wikidata": "Q76635083"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6355059,
+                    52.1724701
+                ]
+            },
+            "id": "node/382398811"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/416473077",
+                "addr:city": "Bremen",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "28217",
+                "addr:street": "Am Speicher XI",
+                "contact:fax": "+49 421 3038284",
+                "contact:phone": "+49 421 3038279",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Hafenmuseum Speicher XI",
+                "opening_hours": "Tu-Su 11:00-18:00; Mo off",
+                "tourism": "museum",
+                "website": "https://www.hafenmuseum-speicherelf.de/",
+                "wheelchair": "yes",
+                "wikidata": "Q1567953",
+                "wikipedia": "de:Hafenmuseum (Bremen)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7712718,
+                    53.0966555
+                ]
+            },
+            "id": "node/416473077"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/418732742",
+                "addr:city": "Kaub",
+                "addr:country": "DE",
+                "addr:housenumber": "6",
+                "addr:postcode": "56349",
+                "addr:street": "Metzgergasse",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Blüchermuseum Kaub",
+                "phone": "+496774400",
+                "tourism": "museum",
+                "website": "https://bluechermuseum-kaub.de",
+                "wheelchair": "no",
+                "wikidata": "Q15638835",
+                "wikipedia": "de:Blüchermuseum Kaub"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7637291,
+                    50.0872211
+                ]
+            },
+            "id": "node/418732742"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/461968015",
+                "addr:city": "Bremen",
+                "addr:country": "DE",
+                "addr:housenumber": "61-63",
+                "addr:postcode": "28207",
+                "addr:street": "Auf der Hohwisch",
+                "alt_name": "Schulgeschichtliche Sammlung Bremen",
+                "check_date:opening_hours": "2020-10-23",
+                "email": "schulmuseum@bildung.bremen.de",
+                "fax": "+49 421 69623310",
+                "fee": "EUR 1.5-3.0",
+                "image": "http://www.schulmuseum-bremen.de/images/bild_00.jpg",
+                "museum": "history",
+                "name": "Schulmuseum Bremen",
+                "opening_hours": "Mo,Tu,Fr 09:00-14:00; We,Th 09:00-16:00",
+                "operator": "Schulmuseum Bremen e.V.",
+                "phone": "+49 421 6962330",
+                "tourism": "museum",
+                "website": "http://www.schulmuseum-bremen.de/",
+                "wheelchair": "no",
+                "wikidata": "Q15845273",
+                "wikipedia": "de:Schulmuseum Bremen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8603,
+                    53.0660606
+                ]
+            },
+            "id": "node/461968015"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/473708146",
+                "addr:city": "Haslach im Kinzigtal",
+                "addr:housenumber": "1",
+                "addr:postcode": "77716",
+                "addr:street": "Klosterstraße",
+                "description": "Einen hervorragenden Einblick in die Entwicklung der Schwarzwälder Trachten gewährt das im \"Alten Kapuzinerkloster\" eingerichtete Schwarzwälder Trachtenmuseum. Trachtenvitrine Harmersbachtal Vitrine mit Kinzigtäler Tracht Bürgerwehrvitrine Bürgerwehrvitri",
+                "email": "info@haslach.de",
+                "museum": "history",
+                "name": "Schwarzwälder Trachtenmuseum",
+                "opening_hours": "Apr 01-Oct 15 Tu-Su 10:00-12:30,13:30-17:00; Oct 16-Mar 31 Tu-Fr 10:00-12:30,13:30-16:00",
+                "operator": "Stadt Haslach",
+                "operator:type": "community",
+                "phone": "+49 7832 706-172",
+                "toilets:wheelchair": "no",
+                "tourism": "museum",
+                "website": "https://www.haslach.de/trachtenmuseum",
+                "wheelchair": "yes",
+                "wikidata": "Q2254565"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0850966,
+                    48.2759565
+                ]
+            },
+            "id": "node/473708146"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/476975834",
+                "addr:city": "Oberhausen-Rheinhausen",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "68794",
+                "addr:street": "Hauptstraße",
+                "addr:suburb": "Rheinhausen",
+                "fee": "no",
+                "museum": "history",
+                "name": "Postmuseum",
+                "name:hu": "Postamúzeum",
+                "opening_hours": "Su[2] 15:00-17:00; Aug off",
+                "operator": "Heimatverein e.V. Oberhausen-Rheinhausen",
+                "start_date": "1990",
+                "tourism": "museum",
+                "website": "http://www.oberhausen-rheinhausen.de/index.php?id=37",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4736386,
+                    49.281589
+                ]
+            },
+            "id": "node/476975834"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/493148361",
+                "addr:city": "Oberhausen",
+                "addr:country": "DE",
+                "addr:housenumber": "32-34",
+                "addr:postcode": "46119",
+                "addr:street": "Antoniestraße",
+                "blind:audio_guide": "yes",
+                "deaf:gebaerdendolmetcher": "Auf Anfrage",
+                "email": "info@kulturinfo-rheinland.de",
+                "lift": "yes",
+                "museum": "history",
+                "name": "Museum St. Antony Hütte",
+                "old_name": "Kontor- und Wohnhaus des Hüttenleiters Gottlob Jacobi",
+                "opening_hours": "Tu-Fr 10:00-17:00; Sa, Su, PH 11:00-18:00; Mo off",
+                "operator": "Landschaftsverband Rheinland",
+                "operator:type": "public",
+                "operator:wikidata": "Q153468",
+                "phone": "+49 2234 9921555",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://industriemuseum.lvr.de/de/die_museen/st__antony/st_antony_huette.html",
+                "wheelchair:access": "yes",
+                "wheelchair:guided_tour": "Nach Vereinbarung",
+                "wheelchair:source": "ruhr2010-barrierefrei.de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8723611,
+                    51.5193477
+                ]
+            },
+            "id": "node/493148361"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/495998430",
+                "addr:city": "Treuchtlingen",
+                "addr:housenumber": "3",
+                "addr:postcode": "91757",
+                "addr:street": "Josef-Lidl-Straße",
+                "museum": "history",
+                "name": "Museum Treuchtlingen",
+                "operator": "Stadt Treuchtlingen",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wikidata": "Q16857826",
+                "wikipedia": "de:Volkskundemuseum Treuchtlingen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9121519,
+                    48.95617
+                ]
+            },
+            "id": "node/495998430"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/506158476",
+                "addr:city": "Elze",
+                "addr:housenumber": "14",
+                "addr:postcode": "31008",
+                "addr:street": "Mühlenstraße",
+                "museum": "history",
+                "name": "Heimatmuseum Elze",
+                "opening_hours": "Su 15:00-17:00; Tu 10:00-12:00; \"und nach Vereinbarung\"",
+                "operator": "Stadt Elze",
+                "operator:type": "public",
+                "phone": "+49 5068 57203",
+                "tourism": "museum",
+                "website": "https://www.elze.de/heimatmuseum",
+                "wikidata": "Q76635950"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7396205,
+                    52.1211908
+                ]
+            },
+            "id": "node/506158476"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/564577444",
+                "addr:city": "Bad Münder am Deister",
+                "addr:housenumber": "13",
+                "addr:postcode": "31848",
+                "addr:street": "Kellerstraße",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "operator": "Heimatbund Niedersachsen e.V., Ortsgruppe Bad Münder",
+                "phone": "+49 5042 52276",
+                "tourism": "museum",
+                "website": "http://www.museum-badmuender.de/museum-im-wettbergschen-adelshof.html"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4636932,
+                    52.1991262
+                ]
+            },
+            "id": "node/564577444"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/600396748",
+                "addr:city": "Krefeld",
+                "addr:country": "DE",
+                "addr:housenumber": "19a",
+                "addr:postcode": "47809",
+                "addr:street": "Albert-Steeger-Straße",
+                "museum": "history",
+                "name": "Jagdschloß",
+                "opening_hours": "Tu-Su,PH 10:00-18:00",
+                "ref": "2",
+                "tourism": "museum",
+                "wheelchair": "no",
+                "wikimedia_commons": "Category:Jagdschlösschen (Krefeld)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6355269,
+                    51.3333261
+                ]
+            },
+            "id": "node/600396748"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/671351568",
+                "fee": "no",
+                "museum": "history",
+                "name": "Kempten-Museum im Zumsteinhaus",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://kempten-museum.de/",
+                "wheelchair": "yes",
+                "wikipedia": "de:Römisches Museum Kempten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3118318,
+                    47.7275046
+                ]
+            },
+            "id": "node/671351568"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/750032749",
+                "addr:city": "Hoisdorf",
+                "addr:housenumber": "1",
+                "addr:postcode": "22955",
+                "addr:street": "Sprenger Weg",
+                "museum": "history",
+                "name": "Stormarnsches Dorfmuseum",
+                "opening_hours": "Tu 09:00-12:00; Sa 14:00-17:00",
+                "opening_hours:covid19": "same",
+                "tourism": "museum",
+                "wikidata": "Q1514834"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3329824,
+                    53.6555634
+                ]
+            },
+            "id": "node/750032749"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/776198474",
+                "addr:city": "Detmold",
+                "addr:postcode": "32760",
+                "addr:street": "Krummes Haus",
+                "fee": "yes",
+                "museum": "history",
+                "name": "LWL-Freilichtmuseum Detmold - Westfälisches Landesmuseum für Volkskunde",
+                "note": "Westfälisches Museum für Volkskunde",
+                "opening_hours": "Apr-Oct Tu-Su 09:00-18:00",
+                "phone": "+49 5231 706-0",
+                "tourism": "museum",
+                "website": "https://www.lwl.org/LWL/Kultur/LWL-Freilichtmuseum-Detmold/",
+                "wheelchair": "yes",
+                "wikidata": "Q314847",
+                "wikipedia": "de:LWL-Freilichtmuseum Detmold"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8702141,
+                    51.9229072
+                ]
+            },
+            "id": "node/776198474"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/828163472",
+                "addr:city": "Bremen",
+                "addr:country": "DE",
+                "addr:housenumber": "10-12",
+                "addr:postcode": "28195",
+                "addr:street": "Sandstraße",
+                "contact:website": "http://www.dommuseum-bremen.de",
+                "email": "info@dommuseum-bremen.de",
+                "image": "https://dommuseum-bremen.de/wp-content/uploads/Silberraum-30x20cm-100dpi-IMG_4036.jpg",
+                "indoor": "yes",
+                "level": "0;1",
+                "museum": "history",
+                "name": "Dom-Museum",
+                "official_name": "Dom-Museum Bremen im St.Petri-Dom",
+                "opening_hours": "Mo-Fr 10:00-16:45; Sa 10:00-13:30; Su 14:00-16:45",
+                "operator": "Stiftung Bremer Dom",
+                "phone": "+494213347142",
+                "start_date": "1987",
+                "tourism": "museum",
+                "website": "www.dommuseum-bremen.de",
+                "wheelchair": "limited",
+                "wikidata": "Q1236491",
+                "wikipedia": "de:Dom-Museum (Bremen)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8096627,
+                    53.0753304
+                ]
+            },
+            "id": "node/828163472"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/845309505",
+                "email": "info@schulmuseum.de",
+                "museum": "history",
+                "name": "Nordwestdeutsches Schulmuseum Zetel-Bohlenbergerfeld",
+                "opening_hours": "Tu-Su 11:00-18:00",
+                "tourism": "museum",
+                "website": "https://www.schlossmuseum.de/schulmuseum/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9206263,
+                    53.4131644
+                ]
+            },
+            "id": "node/845309505"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1197225508",
+                "addr:city": "Dippoldiswalde",
+                "addr:country": "DE",
+                "addr:housename": "Museum",
+                "addr:housenumber": "18",
+                "addr:postcode": "01744",
+                "addr:street": "Freiberger Straße",
+                "check_date": "2018-07-15",
+                "description:de": "Wegen Sanierung und Umbau bis ? geschlossen - siehe Webseite",
+                "disused:tourism": "museum",
+                "email": "museum@dippoldiswalde.de",
+                "entrance": "main",
+                "image": "http://commons.wikimedia.org/wiki/File:Lohgerber-Museum_in_Dippoldiswalde.jpg",
+                "museum": "history",
+                "name": "Lohgerbermuseum",
+                "old_name": "Lohgerbermuseum",
+                "opening_hours": "Tu-Fr 10:00-17:00; Sa-Su 13:00-17:00",
+                "operator": "Stadt Dippoldiswalde",
+                "phone": "+49 3504 612418",
+                "website": "https://www.lohgerbermuseum.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6668388,
+                    50.8922393
+                ]
+            },
+            "id": "node/1197225508"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1225754156",
+                "addr:city": "Diez",
+                "addr:country": "DE",
+                "addr:housenumber": "8",
+                "addr:postcode": "65582",
+                "addr:street": "Schloßberg",
+                "contact:website": "http://www.museumdiez.de/",
+                "fee": "yes",
+                "lastcheck": "2016-01-19",
+                "museum": "history",
+                "name": "Museum im Grafenschloss",
+                "opening_hours": "Tu-Fr 09:00-12:00,14:00-17:00; Sa,Su 14:00-17:00",
+                "opening_hours:covid19": "closed",
+                "operator": "Museum- und Geschichtsverein für Diez und Umgebung e. V.",
+                "phone": "+49 6432 507467",
+                "tourism": "museum",
+                "wikidata": "Q76636921"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.007071,
+                    50.3720179
+                ]
+            },
+            "id": "node/1225754156"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1296020359",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Stadtmuseum Ibbenbüren",
+                "opening_hours": "Su 15:00-18:00",
+                "tourism": "museum",
+                "website": "http://www.stadtmuseum-ibbenbueren.de/stadtmuseum.htm",
+                "wheelchair": "no",
+                "wikidata": "Q1740087",
+                "wikipedia": "de:Stadtmuseum_Ibbenbüren"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.717058,
+                    52.2777938
+                ]
+            },
+            "id": "node/1296020359"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1359489040",
+                "addr:city": "Genthin",
+                "addr:housenumber": "1",
+                "addr:postcode": "39307",
+                "addr:street": "Parkstraße",
+                "addr:suburb": "Parchen",
+                "museum": "history",
+                "name": "Schloss Parchen",
+                "opening_hours": "24/7",
+                "opening_hours:covid19": "24/7",
+                "tourism": "museum",
+                "website": "https://www.foerderverein-schloss-parchen.de/",
+                "wheelchair": "no",
+                "wikidata": "Q2242871",
+                "wikipedia": "de:Schloss Parchen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0840291,
+                    52.352826
+                ]
+            },
+            "id": "node/1359489040"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1407395578",
+                "addr:city": "Greifenstein",
+                "addr:housenumber": "19",
+                "addr:postcode": "35753",
+                "addr:street": "Talstraße",
+                "museum": "history",
+                "name": "Bollwerk Die Glocke",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2954288,
+                    50.6206033
+                ]
+            },
+            "id": "node/1407395578"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/1845641233",
+                "museum": "history",
+                "name": "Dokumentationsstätte Stalag 326",
+                "opening_hours": "Tu, Th 10:00-14:00; ph off",
+                "tourism": "museum",
+                "website": "https://stalag326.de/",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.67655,
+                    51.8652186
+                ]
+            },
+            "id": "node/1845641233"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2008703806",
+                "addr:city": "Frankfurt am Main",
+                "addr:housenumber": "6",
+                "addr:postcode": "60529",
+                "addr:street": "Alt-Schwanheim",
+                "description": "Numerous finds have documented the settlement of the district since the late Paleolithic. The replica of a well shaft that belonged to a Roman villa forms the center of the archaeological collection. Objects of the Wasserburg Goldstein show medieval life.",
+                "email": "info.hgs@web.de",
+                "fee": "no",
+                "museum": "history",
+                "name": "Heimatmuseum Schwanheim",
+                "opening_hours": "Su 14:00-16:00",
+                "operator": "Heimat- und Geschichtsverein Schwanheim e.V.",
+                "tourism": "museum",
+                "website": "https://heimatmuseum-schwanheim.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5815123,
+                    50.0864889
+                ]
+            },
+            "id": "node/2008703806"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2033362563",
+                "addr:city": "Berlin",
+                "addr:country": "DE",
+                "addr:housenumber": "1",
+                "addr:postcode": "10117",
+                "addr:street": "Charitéplatz",
+                "addr:suburb": "Mitte",
+                "check_date": "2023-05-18",
+                "contact:phone": "+49 30 450-536156",
+                "email": "bmm@charite.de",
+                "fax": "+49 30 450-536905",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Berliner Medizinhistorisches Museum der Charité",
+                "name:en": "Berlin Museum of Medical History at the Charité",
+                "name:nl": "Berlijns Medisch-historisch Museum van het Charité",
+                "opening_hours": "off",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.bmm-charite.de/",
+                "wheelchair": "limited",
+                "wikidata": "Q821643"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3745186,
+                    52.526136
+                ]
+            },
+            "id": "node/2033362563"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2297514164",
+                "addr:city": "Apen",
+                "addr:housenumber": "212",
+                "addr:postcode": "26689",
+                "addr:street": "Hauptstraße",
+                "museum": "history",
+                "name": "Schinkenmuseum",
+                "opening_hours:covid19": "off",
+                "operator": "A. Müller",
+                "operator:type": "private",
+                "phone": "+49 4489 6501",
+                "tourism": "museum",
+                "website": "http://schinkenmuseum.de/",
+                "wheelchair": "no",
+                "wikidata": "Q76635656"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8047609,
+                    53.2179979
+                ]
+            },
+            "id": "node/2297514164"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2327864411",
+                "addr:city": "Balingen",
+                "addr:housenumber": "59",
+                "addr:postcode": "72336",
+                "addr:street": "Neue Straße",
+                "contact:facebook": "zehntscheuerbalingen",
+                "contact:instagram": "zehntscheuerbalingen",
+                "museum": "history",
+                "name": "Zehntscheuer Balingen",
+                "opening_hours:covid19": "closed",
+                "operator": "Stadt Balingen",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "www.balingen.de/zehntscheuer"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8514553,
+                    48.2715223
+                ]
+            },
+            "id": "node/2327864411"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2378316036",
+                "addr:city": "Büchen",
+                "addr:housenumber": "1",
+                "addr:postcode": "21514",
+                "addr:street": "Gudower Straße",
+                "contact:phone": "+49 4155 6114",
+                "contact:website": "https://www.buechen.de/kultur/priesterkate/",
+                "museum": "history",
+                "name": "Pristerkate Büchen-Dorf",
+                "opening_hours": "Su[1],Su[2],PH 13:00-18:00; easter off; Dec 24-26 off",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6379933,
+                    53.4804682
+                ]
+            },
+            "id": "node/2378316036"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2396003150",
+                "addr:city": "Stolpen",
+                "addr:housenumber": "25",
+                "addr:postcode": "01833",
+                "addr:street": "Bischofswerdaer Straße",
+                "description": "Very small museum about the gatekeepers",
+                "description:de": "Sehr kleines Museum über die Torwächter",
+                "museum": "history",
+                "name": "Torwächterstube",
+                "opening_hours": "24/7",
+                "operator": "Stadtwache Stolpen e.V.",
+                "operator:type": "private",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0846165,
+                    51.0496065
+                ]
+            },
+            "id": "node/2396003150"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2401869345",
+                "addr:city": "Berlin",
+                "addr:country": "DE",
+                "addr:housenumber": "43-45",
+                "addr:postcode": "10969",
+                "addr:street": "Friedrichstraße",
+                "addr:suburb": "Kreuzberg",
+                "alt_name": "Museum Haus am Checkpoint Charlie",
+                "alt_name:ru": "Дом у Чекпойнт-Чарли",
+                "contact:email": "info@mauermuseum.de",
+                "contact:phone": "+49 30 2537250",
+                "contact:website": "http://www.mauermuseum.de/",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Mauermuseum",
+                "name:en": "Wall Museum",
+                "name:fr": "Musée du Mur",
+                "name:ru": "Музей Берлинской стены",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "operator:type": "private",
+                "tourism": "museum",
+                "wheelchair": "no",
+                "wikidata": "Q382575",
+                "wikipedia": "de:Mauermuseum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.390676,
+                    52.5071871
+                ]
+            },
+            "id": "node/2401869345"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2432701030",
+                "addr:city": "Kulmbach",
+                "addr:housenumber": "20",
+                "addr:postcode": "95326",
+                "addr:street": "Hofer Straße",
+                "contact:email": "stefanie.schubert@kulmbacher.de",
+                "contact:fax": "+49 9221 805 15",
+                "contact:phone": "+49 9221 805 14",
+                "contact:website": "http://www.kulmbacher-moenchshof.de/",
+                "fee": "yes",
+                "microbrewery": "yes",
+                "museum": "history",
+                "name": "Bayerisches Brauereimuseum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Museen im Kulmbacher Mönchshof e.V",
+                "operator:type": "museum",
+                "tourism": "museum",
+                "wheelchair": "limited"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4694249,
+                    50.1149311
+                ]
+            },
+            "id": "node/2432701030"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2520454175",
+                "addr:city": "Bremen",
+                "addr:country": "DE",
+                "addr:housenumber": "240",
+                "addr:postcode": "28213",
+                "addr:street": "Schwachhauser Heerstraße",
+                "alt_name": "Bremer Landesmuseum für Kunst und Kulturgeschichte",
+                "check_date:opening_hours": "2020-12-05",
+                "contact:fax": "+49 421 69960066",
+                "contact:phone": "+49 421 6996000",
+                "contact:website": "https://www.focke-museum.de/",
+                "museum": "history",
+                "name": "Focke-Museum",
+                "opening_hours": "Tu 10:00-21:00; We-Su 10:00-17:00",
+                "tourism": "museum",
+                "wikidata": "Q1434990",
+                "wikipedia": "de:Focke-Museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8640052,
+                    53.0924136
+                ]
+            },
+            "id": "node/2520454175"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2596523137",
+                "addr:housenumber": "12",
+                "addr:street": "Weilerstraße",
+                "alt_name": "Villa rustica",
+                "check_date": "2022-12-03",
+                "museum": "history",
+                "name": "Römerkeller Oberriexingen",
+                "opening_hours": "Su 14:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.roemerkeller-oberriexingen.de/",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0273153,
+                    48.9286845
+                ]
+            },
+            "id": "node/2596523137"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623444489",
+                "addr:city": "Zülpich",
+                "addr:housenumber": "10",
+                "addr:postcode": "53909",
+                "addr:street": "Mühlenberg",
+                "museum": "history",
+                "name": "Geschichtswerkstatt",
+                "operator": "Geschichtsverein Zülpich",
+                "operator:type": "community",
+                "source": "NRW Orthophoto Juni 2019",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6467901,
+                    50.6901662
+                ]
+            },
+            "id": "node/2623444489"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2623962785",
+                "addr:city": "Nürnberg",
+                "addr:housenumber": "58",
+                "addr:postcode": "90403",
+                "addr:street": "Trödelmarkt",
+                "email": "info@geschichte-fuer-alle.de",
+                "fee": "yes",
+                "image": "https://www.henkerhaus-nuernberg.de/fileadmin/user_upload/_DSC6079.jpg",
+                "level": "0,1",
+                "museum": "history",
+                "name": "Henkerhaus",
+                "name:de": "Henkerhaus",
+                "name:en": "hangman's house",
+                "name:ko": "헹커스테크",
+                "opening_hours": "Apr-Dec Tu-Su 12:00-17:00",
+                "operator": "Geschichte Für Alle e. V.",
+                "operator:type": "local_authority",
+                "phone": "+49 911 30736 0",
+                "tourism": "museum",
+                "website": "https://www.henkerhaus-nuernberg.de",
+                "wheelchair": "no",
+                "wikipedia": "de:Geschichte Für Alle – Institut für Regionalgeschichte#Henkerhaus Nürnberg"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0733102,
+                    49.4532284
+                ]
+            },
+            "id": "node/2623962785"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2736009192",
+                "addr:city": "Bremen",
+                "addr:housenumber": "46",
+                "addr:postcode": "28719",
+                "addr:street": "Stader Landstraße",
+                "description": "Hauswirtschaftmuseum zum Mitmachen für Kinder und Zigarrenausstellung",
+                "email": "zigarrenfabrik@bras-bremen.de",
+                "museum": "history",
+                "name": "Köksch un Qualm",
+                "opening_hours": "Th 14:00-18:00",
+                "opening_hours:description": "Außerdem nach Vereinbarung geöffnet",
+                "operator": "bras e.V.",
+                "phone": "+49 421 636958 66",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.koeksch-un-qualm.de/",
+                "wheelchair": "yes",
+                "wikidata": "Q63762867"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7101009,
+                    53.1679025
+                ]
+            },
+            "id": "node/2736009192"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2793156072",
+                "addr:city": "Solingen",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "42659",
+                "addr:street": "Balkhauser Kotten",
+                "description": "02.07.2020 Schleifermuseum Di-So 10-17, Eintritt frei",
+                "museum": "history",
+                "name": "Balkhauser Kotten",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.balkhauser-kotten.de",
+                "wikidata": "Q805087",
+                "wikipedia": "de:Balkhauser Kotten"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1105294,
+                    51.1378169
+                ]
+            },
+            "id": "node/2793156072"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/2874403401",
+                "addr:city": "Lichtenau",
+                "addr:housenumber": "9",
+                "addr:postcode": "33165",
+                "addr:street": "Am Kloster",
+                "addr:suburb": "Dalheim",
+                "contact:phone": "+49 5292 9319-0",
+                "contact:website": "http://www.lwl.org/LWL/Kultur/kloster-dalheim",
+                "museum": "history",
+                "name": "Stiftung Kloster Dalheim. LWL-Landesmuseum für Klosterkultur",
+                "tourism": "museum",
+                "wheelchair": "limited",
+                "wheelchair:description": "Bitte an die Mitarbeiterinnen und Mitarbeiter wenden"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8415346,
+                    51.5652556
+                ]
+            },
+            "id": "node/2874403401"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3067832528",
+                "addr:city": "Braunschweig",
+                "addr:housenumber": "7",
+                "addr:postcode": "38100",
+                "addr:street": "Altstadtmarkt",
+                "check_date:opening_hours": "2021-10-04",
+                "fee": "no",
+                "museum": "history",
+                "name": "Städtisches Museum Braunschweig Altstadtrathaus",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "phone": "+49 531 4704551",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "http://www.braunschweig.de/kultur/veranstaltungen/index.html?mode=details_location&location_id=184",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5169408,
+                    52.2630245
+                ]
+            },
+            "id": "node/3067832528"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3097124386",
+                "contact:email": "bergbaumuseum.ibb@gmx.de",
+                "fee": "no",
+                "museum": "history",
+                "name": "Bergbaumuseum",
+                "opening_hours": "May-Sep Sa[2,4] 14:00-16:30",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7406375,
+                    52.2862461
+                ]
+            },
+            "id": "node/3097124386"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3273230816",
+                "addr:city": "Dorsten",
+                "addr:housenumber": "2",
+                "addr:postcode": "46286",
+                "addr:street": "Schloss",
+                "addr:suburb": "Lembeck",
+                "charge": "6.00 EUR",
+                "email": "schloss-lembeck@t-online.de",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Schlossmuseum",
+                "opening_hours": "easter-Oct 31: Sa-Su,PH 11:00-16:00",
+                "operator": "Graf von Merveldt'sche Rentei",
+                "operator:type": "private",
+                "phone": "+49 2369 7167",
+                "tourism": "museum",
+                "wikidata": "Q76634501"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.999135,
+                    51.7433941
+                ]
+            },
+            "id": "node/3273230816"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3496701320",
+                "addr:city": "Veringenstadt",
+                "addr:housenumber": "138",
+                "addr:street": "Kirchberg",
+                "museum": "history",
+                "name": "Strübhaus (Haus der Malkust)",
+                "tourism": "museum",
+                "website": "https://www.veringenstadt.de/verzeichnis/objekt.php?mandat=128545"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2136221,
+                    48.1785762
+                ]
+            },
+            "id": "node/3496701320"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3749451170",
+                "addr:city": "Berlin",
+                "addr:country": "DE",
+                "addr:housenumber": "9",
+                "addr:postcode": "10117",
+                "addr:street": "Leipziger Platz",
+                "addr:suburb": "Mitte",
+                "contact:phone": "+49 30 398200451",
+                "contact:website": "https://www.deutsches-spionagemuseum.de/",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Deutsches Spionagemuseum",
+                "name:en": "German Spy Museum",
+                "name:nl": "Duits Spionnenmuseum",
+                "name:ru": "Немецкий музей шпионов",
+                "opening_hours": "10:00-20:00",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q20971579",
+                "wikimedia_commons": "Category:Spy Museum Berlin",
+                "wikipedia": "de:Deutsches Spionagemuseum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3792937,
+                    52.5090125
+                ]
+            },
+            "id": "node/3749451170"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3770780516",
+                "contact:phone": "+49 5105 514187",
+                "contact:website": "https://www.klosterstollen.de/",
+                "fee": "no",
+                "museum": "history",
+                "name": "Klosterstollen Barsinghausen",
+                "opening_hours": "Mo-Fr 10:00-15:00; Sa 10:00-13:00",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4697037,
+                    52.2992758
+                ]
+            },
+            "id": "node/3770780516"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3783548287",
+                "addr:city": "Freising",
+                "addr:country": "DE",
+                "addr:housenumber": "7",
+                "addr:postcode": "85354",
+                "addr:street": "Marienplatz",
+                "check_date": "2022-11-19",
+                "museum": "history",
+                "name": "Stadtmuseum",
+                "name:de": "Stadtmuseum",
+                "name:en": "City museum",
+                "opening_hours": "closed",
+                "operator": "Stadt Freising",
+                "owner": "Stadt Freising",
+                "ref": "45",
+                "start_date": "1890",
+                "tourism": "museum",
+                "website": "https://www.freising.de/kultur-freizeit/stadtmuseum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7440908,
+                    48.4004907
+                ]
+            },
+            "id": "node/3783548287"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3901213036",
+                "addr:city": "Achern",
+                "addr:housenumber": "75",
+                "addr:postcode": "77855",
+                "addr:street": "Illenauer Allee",
+                "contact:website": "http://www.illenau-arkaden.de",
+                "lastcheck": "2017-03-02",
+                "museum": "history",
+                "name": "Illenau Arkaden Museum",
+                "opening_hours": "Tu-Su 09:00-22:00",
+                "operator": "Förderkreis Forum Illenau e.V.",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0847632,
+                    48.6247372
+                ]
+            },
+            "id": "node/3901213036"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/3932236494",
+                "addr:city": "Braunsbedra",
+                "addr:housenumber": "4",
+                "addr:postcode": "06242",
+                "addr:street": "Grubenweg",
+                "amenity": "place_of_worship",
+                "changing_table": "yes",
+                "changing_table:location": "dedicated_room",
+                "email": "info@pfaennerhall.de",
+                "fee": "yes",
+                "image": "https://www.pfaennerhall-geiseltal.de/images/beitraege22/KAR_2022.JPG",
+                "internet_access": "wlan",
+                "museum": "history",
+                "name": "Pfännerhall, Das Tor zum Geiseltal",
+                "name:de": "Pfännerhall",
+                "opening_hours": "Mar-Oct We-Su 10:00-18:00; Nov-Feb We-Fr 10:00-13:00; Sa-Su 10:00-16:00",
+                "operator": "Zentralwerkstatt Pfännerhall e.V",
+                "operator:type": "community",
+                "phone": "+49 34633 90825",
+                "toilets": "yes",
+                "toilets:access": "customers",
+                "toilets:wheelchair": "designated",
+                "tourism": "museum",
+                "website": "https://www.pfaennerhall-geiseltal.de",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9039417,
+                    51.292099
+                ]
+            },
+            "id": "node/3932236494"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4083248377",
+                "addr:city": "Tübingen",
+                "addr:postcode": "72074",
+                "addr:street": "Im Schloss",
+                "addr:suburb": "Bebenhausen",
+                "check_date:opening_hours": "2022-08-20",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Ehemalige Schlossküche",
+                "opening_hours": "Apr-Oct: Sa,Su,PH 11:00-17:00; Nov-Mar: off",
+                "operator": "Staatliche Schlösser und Gärten Baden-Württemberg",
+                "operator:type": "government",
+                "phone": "+49 7071 602802",
+                "tourism": "museum",
+                "website": "kloster-bebenhausen.de",
+                "wheelchair": "no",
+                "wheelchair:description": "Die Schlossküche ist im Untergeschoss und nur über mehrere Stufen zu erreichbar."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0613402,
+                    48.5612613
+                ]
+            },
+            "id": "node/4083248377"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4149518398",
+                "alt_name": "Judenbad",
+                "description": "Besichtigung nur im Rahmen von Führungen möglich. Man erreicht das Tauchbecken über eine Treppe in 14 Metern Tiefe. Darüber befindet sich ein Gewölbe mit einer Öffnung, durch die Regenwasser eindringen kann. Das Becken wird durch Grundwasser gespeist. 16.",
+                "fee": "no",
+                "heritage": "4",
+                "heritage:operator": "lda",
+                "museum": "history",
+                "name": "Mikwe",
+                "tourism": "museum",
+                "website": "https://museum-offenburg.de/museum/aussenstellen/detail/nachricht/id/15078-mikwe/?cb-id=14526",
+                "wheelchair": "no",
+                "wikidata": "Q39975548",
+                "wikipedia": "de:Mikwe (Offenburg)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9448123,
+                    48.4696727
+                ]
+            },
+            "id": "node/4149518398"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4173397719",
+                "addr:city": "Amt Creuzburg",
+                "addr:country": "DE",
+                "addr:postcode": "99831",
+                "addr:street": "Auf der Creuzburg",
+                "museum": "history",
+                "name": "Burgmuseum",
+                "tourism": "museum",
+                "website": "https://www.museumsverband-thueringen.de/museumsverband/museen/museum/museum-burg-creuzburg.html",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2452186,
+                    51.0510689
+                ]
+            },
+            "id": "node/4173397719"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4327857935",
+                "addr:city": "Haltern am See",
+                "addr:country": "DE",
+                "addr:housenumber": "100",
+                "addr:postcode": "45721",
+                "addr:street": "Weseler Straße",
+                "charge": "6.00 EUR",
+                "description:covid19": "geschlossen bis 31.12.2020",
+                "email": "lwl-roemermuseum@lwl.org",
+                "fee": "yes",
+                "museum": "history",
+                "name": "LWL-Römermuseum",
+                "opening_hours": "Tu-Fr 09:00-17:00; Sa,Su,PH 10:00-18:00; Dec 24,Dec 25,Dec 31,Jan 01: off",
+                "opening_hours:covid19": "restricted",
+                "operator": "Landschaftsverband Westfalen-Lippe",
+                "operator:type": "public",
+                "phone": "+49 2364 93760",
+                "tourism": "museum",
+                "website": "https://www.lwl-roemermuseum-haltern.de/",
+                "wheelchair": "yes",
+                "wikidata": "Q1798479",
+                "wikipedia": "de:Römerlager Haltern"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1704329,
+                    51.7396487
+                ]
+            },
+            "id": "node/4327857935"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4587984185",
+                "addr:city": "Großbreitenbach",
+                "addr:housenumber": "6",
+                "addr:postcode": "98701",
+                "addr:street": "Myliusstraße",
+                "museum": "history",
+                "name": "Deutsches Kloßpressenmuseum",
+                "operator": "Landgemeinde Stadt Großbreitenbach",
+                "operator:type": "local_authority",
+                "phone": "+49 36781 41815",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.014884,
+                    50.5854564
+                ]
+            },
+            "id": "node/4587984185"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4643011715",
+                "addr:city": "Hoyerswerda",
+                "addr:housenumber": "1",
+                "addr:postcode": "02977",
+                "addr:street": "Dietrich-Bonhoeffer-Straße",
+                "description": "Mit der von Konrad Zuse 1941 erfundenen, ersten voll funktionsfähigen Rechenmaschine, dem Computer, begann eine rasant Entwicklung. Die geistigen Wurzeln seiner Erfindung liegen u.a. in Hoyerswerda - jene Stadt, in der Konrad Zuse seine Jugendzeit verbrac",
+                "email": "service@zuse-computer-museum.com",
+                "fee": "yes",
+                "museum": "history",
+                "name": "ZCOM Zuse-Computer-Museum",
+                "opening_hours": "PH,Tu-Su 10:00-17:00; Dec 24,Dec 31,Jan 01 off",
+                "operator": "Konrad Zuse Stiftung",
+                "source": "www.zuse-computer-museum.com",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2559868,
+                    51.4375371
+                ]
+            },
+            "id": "node/4643011715"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4661237964",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Dioramenschau",
+                "toilets:wheelchair": "no",
+                "tourism": "museum",
+                "website": "https://www.altoettinger-marienwerk.de/",
+                "wheelchair": "yes",
+                "wikidata": "Q76626980"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6751481,
+                    48.2267339
+                ]
+            },
+            "id": "node/4661237964"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/4941992244",
+                "addr:city": "Rohrbach",
+                "addr:country": "DE",
+                "addr:housenumber": "30",
+                "addr:postcode": "07429",
+                "addr:street": "Ortsstraße",
+                "museum": "history",
+                "name": "Historische Apotheke und Laboratorium",
+                "opening_hours": "Mo-Sa 08:00-10:00 || \"und auf Voranmeldung\"",
+                "operator": "Gemeindeamt von Rohrbach",
+                "phone": "+49 36730 22268",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2201158,
+                    50.6044978
+                ]
+            },
+            "id": "node/4941992244"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5073753888",
+                "addr:city": "Rheinbach",
+                "addr:housenumber": "4",
+                "addr:postcode": "53359",
+                "addr:street": "Koblenzer Straße",
+                "contact:website": "https://kutschenmuseum-mostert.de/kontakt/kontaktformular",
+                "description": "Kutschensammlung der Familie Mostert mit Fahrzeugen aus dem 19. Jahrhundert",
+                "email": "info@coachhaus.de",
+                "museum": "history",
+                "name": "Kutschenmuseum Mostert",
+                "opening_hours": "Mo-Th 08:00-17:00; Fr 08:00-13:00",
+                "operator": "Hanns-Georg Mostert",
+                "operator:type": "private",
+                "phone": "+49 2226 9117040",
+                "ref:isil": "DE-MUS-994118",
+                "tourism": "museum",
+                "website": "https://kutschenmuseum-mostert.de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9544972,
+                    50.6254517
+                ]
+            },
+            "id": "node/5073753888"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5111795980",
+                "addr:city": "Mannheim",
+                "addr:postcode": "68161",
+                "addr:street": "Bismarckstraße",
+                "email": "info@schloss-mannheim.de",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Schlossmuseum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Staatliche Schlösser und Gärten Baden-Württemberg",
+                "operator:type": "government",
+                "phone": "+49 (0)621-292 28 91",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "https://www.schloss-mannheim.de/",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4621817,
+                    49.4828501
+                ]
+            },
+            "id": "node/5111795980"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5218649065",
+                "fee": "no",
+                "museum": "history",
+                "name": "Mediathek „Haus der Zähringer“",
+                "opening_hours": "May-Oct Tu-Su 09:00-18:00; Nov-Apr Tu-Su 10:00-17:00",
+                "tourism": "museum",
+                "website": "http://www.die-zaehringer.eu"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0321309,
+                    48.0158791
+                ]
+            },
+            "id": "node/5218649065"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5356949418",
+                "museum": "history",
+                "name": "Ausstellung zur Geschichte des KZ Buchenwald",
+                "name:cs": "Expozice Historie koncentračního tábora Buchenwald",
+                "name:en": "The Exhibition on the History of the Buchenwald Concentration Camp",
+                "name:es": "La exposición permanente sobre la historia del Campo de concentración Buchenwald",
+                "name:fr": "L’exposition permanente sur l’histoire du camp de concentration de Buchenwald",
+                "name:it": "La mostra permanente della storia del campo di concentramento di Buchenwald",
+                "name:nl": "Permanente tentoonstelling over de geschiedenis van het concentratiekamp Buchenwald",
+                "name:ru": "Выставка об истории концентрационного лагеря Бухенвальд",
+                "opening_hours": "Apr-Oct: Tu-Su 10:00 - 18:00. Nov-Mar: Tu-Su 10:00 - 16:00",
+                "tourism": "museum",
+                "website": "https://www.buchenwald.de/1452/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2522682,
+                    51.0235423
+                ]
+            },
+            "id": "node/5356949418"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5454064736",
+                "museum": "history",
+                "museum_type": "photography",
+                "name": "Süddeutsches Fotomuseum",
+                "opening_hours": "Tu 15:00-20:00",
+                "tourism": "museum",
+                "website": "https://www.sueddeutsches-fotomuseum.de/",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6061323,
+                    48.0039001
+                ]
+            },
+            "id": "node/5454064736"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5523624534",
+                "addr:city": "Zwingenberg",
+                "addr:housenumber": "11",
+                "addr:postcode": "64673",
+                "addr:street": "Scheuergasse",
+                "museum": "history",
+                "name": "Heimatmuseum Zwingenberg",
+                "opening_hours": "Apr 08 - Oct 28 Su 14:30-17:30",
+                "operator": "Stadt Zwingenberg",
+                "tourism": "museum",
+                "wikidata": "Q76634333"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6112493,
+                    49.7241334
+                ]
+            },
+            "id": "node/5523624534"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5711164953",
+                "addr:city": "Bodenwerder",
+                "addr:housenumber": "1",
+                "addr:postcode": "37619",
+                "addr:street": "Homburgstraße",
+                "museum": "history",
+                "name": "Weseraquarium",
+                "opening_hours": "Sa,Su 12:00-18:00",
+                "operator": "Mobi Dick e.V.",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5183362,
+                    51.9794294
+                ]
+            },
+            "id": "node/5711164953"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5723205465",
+                "addr:city": "Berlin",
+                "addr:country": "DE",
+                "addr:housename": "Jagdschloß Grunewald",
+                "addr:housenumber": "100",
+                "addr:postcode": "14193",
+                "addr:street": "Hüttenweg",
+                "addr:suburb": "Grunewald",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Jagdschloss Grunewald",
+                "opening_hours": "Nov-Mar Sa,Su,PH 10:00-16:00; Apr-Oct Tu-Su 10:00-18:00",
+                "tourism": "museum",
+                "wikidata": "Q531032"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2615082,
+                    52.4673699
+                ]
+            },
+            "id": "node/5723205465"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5860692376",
+                "addr:city": "Tübingen",
+                "addr:housenumber": "1",
+                "addr:postcode": "72074",
+                "addr:street": "Im Schloß",
+                "addr:suburb": "Bebenhausen",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Kloster Bebenhausen",
+                "opening_hours": "Nov-Mar: Tu-Su,PH 10:00-12:00,13:00-17:00; Apr-Oct: Mo-Su,PH 09:00-17:00; Dec 24-25,Dec 31, Jan 1 off",
+                "operator": "Staatliche Schlösser und Gärten Baden-Württemberg",
+                "operator:type": "government",
+                "phone": "+49 7071 602802",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "website": "kloster-bebenhausen.de",
+                "wheelchair": "limited",
+                "wheelchair:description": "Der Kassenbereich ist ebenerdig zu betreten, der stufenlose Zugang zu Museum/Kirche wird auf Nachfrage geöffnet. Die wichtigsten Räume im Kloster sind mit Rampen versehen. Der Klosterhof (6% Neigung) ist mit abgeschliffenen Pflastersteinen gelegt."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0601503,
+                    48.5611721
+                ]
+            },
+            "id": "node/5860692376"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5860692377",
+                "addr:city": "Tübingen",
+                "addr:housenumber": "1",
+                "addr:postcode": "72074",
+                "addr:street": "Im Schloß",
+                "addr:suburb": "Bebenhausen",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Schloss Bebenhausen",
+                "opening_hours": "Apr-Oct: Tu-Fr 11:00-17:00; Apr-Oct: Sa,Su,PH 10:00-17:00; Nov-Mar: Tu-Fr 14:00-17:00; Nov-Mar: Sa,So,PH 11:00-17:00; Dec 24-25, Dec 31, Jan 1 off",
+                "operator": "Staatliche Schlösser und Gärten Baden-Württemberg",
+                "operator:type": "government",
+                "phone": "+49 7071 602802",
+                "tourism": "museum",
+                "website": "kloster-bebenhausen.de",
+                "wheelchair": "no",
+                "wheelchair:description": "Das Schloss gehört zum Klostermuseum. Betreten des Schlosses nur über viele Stufen im Rahmen einer Führung möglich."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0610419,
+                    48.5610592
+                ]
+            },
+            "id": "node/5860692377"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5903480085",
+                "addr:city": "Lüneburg",
+                "addr:country": "DE",
+                "addr:housenumber": "38",
+                "addr:postcode": "21335",
+                "addr:street": "Heiligengeiststraße",
+                "contact:phone": "+49 4131 759950",
+                "contact:website": "http://www.ostpreussisches-landesmuseum.de/",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Ostpreußisches Landesmuseum Lüneburg",
+                "opening_hours": "Tu-Su 10:00-18:00",
+                "toilets:wheelchair": "yes",
+                "tourism": "museum",
+                "wheelchair": "yes",
+                "wikidata": "Q830476"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4071009,
+                    53.2467461
+                ]
+            },
+            "id": "node/5903480085"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/5975937073",
+                "museum": "history",
+                "name": "Steinhauermuseum",
+                "operator": "HVV Mühlbach",
+                "tourism": "museum",
+                "wikidata": "Q1667112",
+                "wikipedia": "de:Steinhauermuseum Mühlbach"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.89983,
+                    49.0999926
+                ]
+            },
+            "id": "node/5975937073"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6074524555",
+                "addr:city": "Königswinter",
+                "addr:housenumber": "67",
+                "addr:postcode": "53639",
+                "addr:street": "Bockerother Straße",
+                "museum": "history",
+                "name": "Geschichtshäuschen am Düfelsarsch",
+                "note": "Öffnungszeiten: nach Vereinbarung",
+                "phone": "+49 2244 1709",
+                "tourism": "museum",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2494475,
+                    50.7290912
+                ]
+            },
+            "id": "node/6074524555"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6149858895",
+                "addr:city": "Immerath",
+                "addr:country": "DE",
+                "addr:housenumber": "65",
+                "addr:postcode": "54552",
+                "addr:street": "Hauptstraße",
+                "check_date": "2018-12-20",
+                "contact:facebook": "Schulmuseum-Immerath-417871078581909/",
+                "email": "schulmuseum.immerath@vgdaun.de",
+                "museum": "history",
+                "name": "Schulmuseum",
+                "operator": "Verbandsgemeinde Daun",
+                "operator:type": "public",
+                "operator:wikidata": "Q548918",
+                "operator:wikipedia": "de:Verbandsgemeinde Daun",
+                "phone": "+49 6573 9526182",
+                "tourism": "museum",
+                "website": "https://www.vgv-daun.de/vg_daun/B%C3%BCrgerservice/Kulturelles/Museen/Schulmuseum%20Immerath/",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9646286,
+                    50.1286212
+                ]
+            },
+            "id": "node/6149858895"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6275293234",
+                "addr:city": "Sprockhövel",
+                "alt_name": "Stock und Scherenberger Erbstollen",
+                "contact:facebook": "https://www.facebook.com/Erbstollen",
+                "contact:website": "https://stock-und-scherenberg.de",
+                "disused": "yes",
+                "historic": "mine",
+                "image": "https://stock-und-scherenberg.de/4.0/image/10413/thumbnail/m/stollen-osm.jpg",
+                "mineral": "coal",
+                "museum": "history",
+                "name": "Stock und Scherenberger Erbstollen",
+                "official_name": "Besucherbergwerk Stock und Scherenberger Erbstollen",
+                "opening_hours": "\"Nur nach Anmeldung\"",
+                "operator": "Bergbauaktiv Ruhr e.V.",
+                "operator:type": "private_non_profit",
+                "resource": "coal",
+                "start_date": "1746",
+                "tourism": "museum",
+                "website": "https://stock-und-scherenberg.de",
+                "wikidata": "Q2350538",
+                "wikipedia": "de:Stock & Scherenberger Erbstollen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2769513,
+                    51.3612686
+                ]
+            },
+            "id": "node/6275293234"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6370779093",
+                "addr:city": "Stuttgart",
+                "addr:country": "DE",
+                "addr:housenumber": "10",
+                "addr:postcode": "70173",
+                "addr:street": "Dorotheenstraße",
+                "email": "hotel-silber@hdgbw.de",
+                "fee": "no",
+                "museum": "history",
+                "name": "Museum Hotel Silber",
+                "opening_hours": "Tu-Su 10:00-18:00; We 10:00-21:00",
+                "phone": "+49 711 2124040",
+                "tourism": "museum",
+                "website": "https://www.geschichtsort-hotel-silber.de/",
+                "wikidata": "Q60059499",
+                "wikipedia": "de:Hotel Silber (Erinnerungsort)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.181835,
+                    48.7755813
+                ]
+            },
+            "id": "node/6370779093"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6611494332",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "opening_hours": "May-Oct Su,PH 13:00-17:00",
+                "operator": "Gemeinde Sontheim an der Brenz",
+                "operator:type": "public",
+                "tourism": "museum",
+                "wikidata": "Q76632054"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2932426,
+                    48.5615366
+                ]
+            },
+            "id": "node/6611494332"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/6742216874",
+                "description": "Ausstellung von volkskundlichen Geräten, Einrichtungsgegenständen und traditioneller Kleidung. Voll eingerichtete Webstube mit verschiedenen Webstühlen. Gruppenführungen nach Vereinbarung.",
+                "email": "info@Landschaft-Stapelholm.de",
+                "fee": "no",
+                "museum": "history",
+                "name": "Landschaftsmuseum Stapelholm",
+                "opening_hours": "Mo-Th 09:00-16:00; Fr 09:00-13:00",
+                "operator": "Förderverein Landschaft Stapelholm e.V.",
+                "tourism": "museum",
+                "website": "http://www.landschaft-stapelholm.de/projekte_museum.php"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2781891,
+                    54.30092
+                ]
+            },
+            "id": "node/6742216874"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7020199819",
+                "addr:city": "Stolzenau",
+                "addr:housenumber": "5",
+                "addr:postcode": "31592",
+                "addr:street": "Schulstraße",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "phone": "+49 5761 1541",
+                "tourism": "museum",
+                "website": "https://www.heimatmuseumstolzenau.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.074511,
+                    52.5111324
+                ]
+            },
+            "id": "node/7020199819"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7149257209",
+                "addr:city": "Borsdorf",
+                "addr:housenumber": "5",
+                "addr:postcode": "04451",
+                "addr:street": "Leipziger Straße",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "operator": "Heimatverein für Borsdorf und Zweenfurth e.V.",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5332169,
+                    51.3473314
+                ]
+            },
+            "id": "node/7149257209"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7239711169",
+                "3dr:type": "0.0",
+                "addr:city": "Bremen",
+                "addr:country": "DE",
+                "addr:postcode": "28777",
+                "addr:street": "Rekumer Siel",
+                "email": "mail@bunkervalentin.de",
+                "museum": "history",
+                "name": "U-Boot-Bunker Valentin",
+                "opening_hours": "Tu-Su 10:00-16:00; Sa off; PH off",
+                "operator": "Landeszentrale für politische Bildung",
+                "phone": "+49 421 69 67 36 70",
+                "tourism": "museum",
+                "website": "https://www.denkort-bunker-valentin.de/",
+                "wikidata": "Q466256",
+                "wikipedia": "de:U-Boot-Bunker Valentin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.503949,
+                    53.2169777
+                ]
+            },
+            "id": "node/7239711169"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7245480285",
+                "addr:city": "Moers",
+                "addr:housenumber": "9",
+                "addr:postcode": "47441",
+                "addr:street": "Kastell",
+                "email": "grafschafter-museum@moers.de",
+                "museum": "history",
+                "name": "Grafschafter Museum im Moerser Schloss",
+                "opening_hours": "Tu-Fr 10:00-18:00, Sa-Su 11:00-18:00",
+                "operator": "Stadt Moers",
+                "operator:type": "public",
+                "phone": "+49 28 41 201-6 82 00",
+                "tourism": "museum",
+                "website": "https://www.moers.de/de/ansprechpartner/41-grafschafter-museum-im-schloss/",
+                "wikidata": "Q76634924"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.624349,
+                    51.4493281
+                ]
+            },
+            "id": "node/7245480285"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7333692649",
+                "addr:city": "Freiburg im Breisgau",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "79098",
+                "addr:street": "Schloßbergring",
+                "email": "zinnfigurenfreundeskreis@web.de",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Zinnfigurenklause im Schwabentor",
+                "opening_hours": "Tu-Fr 14:30-17:00; Sa,Su 12:00-14:00; May Sa[3] 11:00-16:00; Oct 03 11:00-16:00; Oct 04-May Fr[3] off",
+                "operator": "Freundes- und Förderkreis der Zinnfigurenklause im Schwabentor e.V.",
+                "phone": "+49 761 24321",
+                "tourism": "museum",
+                "website": "http://www.zinnfigurenklause-freiburg.de/",
+                "wheelchair": "no",
+                "wikidata": "Q205072"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8540756,
+                    47.992927
+                ]
+            },
+            "id": "node/7333692649"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7367769766",
+                "fee": "no",
+                "museum": "history",
+                "name": "Hochbunker an der Friedberger Anlage",
+                "opening_hours": "May-Nov We 17:00-19:00; May-Nov Su 11:00-14:00",
+                "operator": "Jüdisches Museum Frankfurt",
+                "tourism": "museum",
+                "website": "https://www.juedischesmuseum.de/besuchen/hochbunker-friedberger-anlage/",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6955396,
+                    50.1145382
+                ]
+            },
+            "id": "node/7367769766"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7448608926",
+                "addr:city": "Frankfurt am Main",
+                "addr:housenumber": "1",
+                "addr:postcode": "60311",
+                "addr:street": "Domplatz",
+                "historic": "yes",
+                "museum": "history",
+                "name": "Dommuseum",
+                "tourism": "museum",
+                "website": "https://dommuseum-frankfurt.de",
+                "wheelchair": "yes",
+                "wikidata": "Q1238556",
+                "wikipedia": "de:Dommuseum Frankfurt"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6850443,
+                    50.1108412
+                ]
+            },
+            "id": "node/7448608926"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7494583350",
+                "addr:city": "Amt Creuzburg",
+                "addr:postcode": "99831",
+                "addr:street": "Münsterstraße",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "operator": "Gemeinde Mihla",
+                "operator:type": "community",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3364064,
+                    51.0765334
+                ]
+            },
+            "id": "node/7494583350"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7512828440",
+                "addr:city": "Obergünzburg",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "87634",
+                "addr:street": "Unterer Markt",
+                "contact:email": "info@suedseesammlung.de",
+                "contact:fax": "+49 8372 90040",
+                "contact:phone": "+49 8372 8239",
+                "museum": "history",
+                "name": "Historisches Museum - Südseesammlung",
+                "opening_hours": "Th-Su 14:00-17:00",
+                "tourism": "museum",
+                "website": "https://www.suedseesammlung.de/",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4194684,
+                    47.8472326
+                ]
+            },
+            "id": "node/7512828440"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7519279599",
+                "addr:city": "Treffurt",
+                "addr:postcode": "99830",
+                "addr:street": "Rathausstraße",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "operator": "Stadt Treffurt",
+                "operator:type": "community",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2358058,
+                    51.1368734
+                ]
+            },
+            "id": "node/7519279599"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7532694895",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "operator:type": "community",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2705461,
+                    51.1161837
+                ]
+            },
+            "id": "node/7532694895"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7556990187",
+                "museum": "history",
+                "name": "Mittelmosel-Museum",
+                "opening_hours:covid19": "Tu-Su 12:00-16:00; Mo off",
+                "start_date": "1955",
+                "tourism": "museum",
+                "wheelchair": "no",
+                "wikidata": "Q1743135"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1122997,
+                    49.9488601
+                ]
+            },
+            "id": "node/7556990187"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7653007494",
+                "museum": "history",
+                "name": "Keltenpark Otzenhausen",
+                "tourism": "museum",
+                "website": "https://www.keltenpark-otzenhausen.de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9984439,
+                    49.6155879
+                ]
+            },
+            "id": "node/7653007494"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7699328328",
+                "addr:city": "München",
+                "addr:housenumber": "21",
+                "addr:postcode": "80331",
+                "addr:street": "Tal",
+                "email": "muenchen@timeride.de",
+                "fee": "yes",
+                "fixme": "Kategorie",
+                "museum": "history",
+                "name": "TimeRide",
+                "opening_hours": "Fr-Su 11:00-19:00",
+                "operator": "TimeRide GmbH",
+                "operator:type": "business",
+                "phone": "+49 89 260 10 116",
+                "tourism": "museum",
+                "website": "https://timeride.de/muenchen/",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5800118,
+                    48.1359752
+                ]
+            },
+            "id": "node/7699328328"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7706584761",
+                "museum": "history",
+                "name": "Kürfürstliche Gemächer",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0091606,
+                    51.5590505
+                ]
+            },
+            "id": "node/7706584761"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7727367814",
+                "addr:city": "Ulm",
+                "addr:country": "DE",
+                "addr:housenumber": "30",
+                "addr:postcode": "89073",
+                "addr:street": "Griesbadgasse",
+                "museum": "history",
+                "name": "Wassermuseum",
+                "opening_hours": "\"nach Vereinbarung\"",
+                "operator": "SWU Ulm",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9998602,
+                    48.4015462
+                ]
+            },
+            "id": "node/7727367814"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7728829663",
+                "museum": "history",
+                "name": "Museum Alte Schmiede",
+                "opening_hours": "May-Oct: Su 14:00-16:00",
+                "operator": "HVV- Mühlbach",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8996852,
+                    49.0997155
+                ]
+            },
+            "id": "node/7728829663"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7758159276",
+                "fee": "no",
+                "museum": "history",
+                "museum_type": "institutional",
+                "name": "Universitätsmuseum Bonn",
+                "opening_hours": "We-Su 12:00-16:30",
+                "tourism": "museum",
+                "website": "https://www.uni-bonn.de/einrichtungen/universitaetsverwaltung/organisationsplan/archiv/universitaetsmuseum",
+                "wheelchair": "limited"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1021373,
+                    50.7328219
+                ]
+            },
+            "id": "node/7758159276"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7804440465",
+                "addr:city": "Malsch",
+                "addr:country": "DE",
+                "addr:housenumber": "6",
+                "addr:postcode": "76316",
+                "addr:street": "Gässle",
+                "addr:suburb": "Völkersbach",
+                "amenity": "museum",
+                "description": "Völkersbacher Heimatmuseum mit Schneiderstube",
+                "fee": "no",
+                "museum": "history",
+                "name": "Völkersbacher Heimatmuseum",
+                "opening_hours": "\"nach Vereinbarung\"",
+                "operator": "Heimatverein Völkersbach e.V.",
+                "subject": "history",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3962986,
+                    48.8705618
+                ]
+            },
+            "id": "node/7804440465"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7816190227",
+                "addr:city": "Oelsnitz/Vogtl.",
+                "addr:housenumber": "5",
+                "addr:postcode": "08606",
+                "addr:street": "Untere Kirchstraße",
+                "museum": "history",
+                "name": "Löwen-Drogerie & Museum",
+                "tourism": "museum",
+                "website": "http://www.drogeriemuseum.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1692332,
+                    50.4145686
+                ]
+            },
+            "id": "node/7816190227"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7834517755",
+                "addr:city": "Köthen (Anhalt)",
+                "addr:housenumber": "4",
+                "addr:postcode": "06366",
+                "addr:street": "Schloßplatz",
+                "museum": "history",
+                "name": "Historisches Museum & Bachgedenkstätte",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "phone": "+49349670099260",
+                "tourism": "museum",
+                "website": "http://www.bachstadt-koethen.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9768396,
+                    51.7535131
+                ]
+            },
+            "id": "node/7834517755"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7834517756",
+                "addr:city": "Köthen (Anhalt)",
+                "addr:postcode": "06366",
+                "addr:street": "Schlosshof",
+                "museum": "history",
+                "name": "Naumann-Museum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "phone": "+49349670099260",
+                "tourism": "museum",
+                "website": "http://www.bachstadt-koethen.de/museen/naumann-museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9769173,
+                    51.7540297
+                ]
+            },
+            "id": "node/7834517756"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7849764395",
+                "addr:city": "Hummelshain",
+                "addr:housenumber": "21",
+                "addr:postcode": "07768",
+                "addr:street": "Kahlaer Straße",
+                "museum": "history",
+                "name": "Residenzdorfmuseum \"Tante Irma Museum\"",
+                "opening_hours": "April bis einschließlich September,  jeden Sonntag 14 bis 16 Uhr.",
+                "operator": "Museumsclub",
+                "tourism": "museum",
+                "website": "https://www.tim-hummelshain.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6269556,
+                    50.7672255
+                ]
+            },
+            "id": "node/7849764395"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7908146870",
+                "addr:city": "Waren (Müritz)",
+                "addr:housenumber": "1",
+                "addr:postcode": "17192",
+                "addr:street": "Neuer Markt",
+                "museum": "history",
+                "name": "Stadtgeschichtliches Museum",
+                "tourism": "museum",
+                "website": "https://www.waren-mueritz.de/de/leben-in-waren-mueritz/stadtmuseum/",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.689459,
+                    53.5139628
+                ]
+            },
+            "id": "node/7908146870"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7938589887",
+                "charge": "4",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Schauplatz Petersberg",
+                "opening_hours": "Apr-Oct: 11:00-17:00; Nov-Mar: 12:00-16:00; Dec 24,Dec 31 off",
+                "operator": "NRW-Stiftung",
+                "tourism": "museum",
+                "website": "https://www.schauplatz-petersberg.de/",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2098875,
+                    50.6849371
+                ]
+            },
+            "id": "node/7938589887"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7959775363",
+                "museum": "history",
+                "name": "Bergwerksmuseum",
+                "tourism": "museum",
+                "website": "https://www.peissenberg.de/tourismus/museen/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0578982,
+                    47.7972677
+                ]
+            },
+            "id": "node/7959775363"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/7975168654",
+                "museum": "history",
+                "name": "Schaubergwerk",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "operator": "Bergbauverein Ronneburg e.V.",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1833193,
+                    50.8611307
+                ]
+            },
+            "id": "node/7975168654"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8007398299",
+                "museum": "history",
+                "name": "Wintersportmuseum",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3999357,
+                    48.4472007
+                ]
+            },
+            "id": "node/8007398299"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8042098330",
+                "museum": "history",
+                "name": "Heimathaus Antonius",
+                "opening_hours": "Sa 10:00-12:00",
+                "operator": "Heimatbund St. Tönis 1952 e.V.",
+                "operator:type": "association",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4923661,
+                    51.3216215
+                ]
+            },
+            "id": "node/8042098330"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8069595214",
+                "addr:city": "Liebenau",
+                "addr:postcode": "01778",
+                "addr:street": "Hauptstraße",
+                "museum": "history",
+                "name": "Bauernmuseum Liebenau",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8325102,
+                    50.7989822
+                ]
+            },
+            "id": "node/8069595214"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8093289937",
+                "addr:city": "Rosenbach/Vogtland",
+                "addr:housenumber": "9",
+                "addr:postcode": "08539",
+                "addr:street": "Hohe Straße",
+                "addr:suburb": "Mehltheuer",
+                "description": "Das kleinstes Musikinstrumentenmuseum der Welt steht auch Guinness-Buch der Rekorde. Besuch nach Vereinbarung. Tel. + 49 374314159",
+                "museum": "history",
+                "name": "Kleinstes Musikinstrumentenmuseum der Welt",
+                "opening_hours": "\"nach Vereinbarung\"",
+                "operator": "A. Teuschler",
+                "operator:type": "private",
+                "phone": "+49 37431 4159",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0437358,
+                    50.5414022
+                ]
+            },
+            "id": "node/8093289937"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8191442536",
+                "addr:city": "Detmold",
+                "addr:housenumber": "1",
+                "addr:postcode": "32756",
+                "addr:street": "Schloßplatz",
+                "museum": "history",
+                "name": "Fürstliches Residenzschloss Detmold",
+                "opening_hours": "Mo-Su 10:00-16:00; Apr-Oct 10:00-17:00",
+                "operator": "Stadt Detmold & Familie Zur Lippe",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "https://www.schloss-detmold.de/",
+                "wikidata": "Q1483652",
+                "wikipedia": "de:Fürstliches Residenzschloss Detmold"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8780294,
+                    51.9364358
+                ]
+            },
+            "id": "node/8191442536"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8265218519",
+                "fax": "+49 2801 - 9856887",
+                "museum": "history",
+                "name": "Museum rund ums Geld",
+                "operator": "Geldgeschichtlicher Verein Niederrhein",
+                "operator:type": "private",
+                "phone": "+49 2801-9856888",
+                "tourism": "museum",
+                "website": "https://www.geldmuseum-xanten-wardt.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4336527,
+                    51.6874235
+                ]
+            },
+            "id": "node/8265218519"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8428338215",
+                "addr:city": "Berlin",
+                "addr:postcode": "14089",
+                "addr:street": "Am Flugplatz Gatow",
+                "museum": "history",
+                "name": "Militär-Historisches Museum Berlin-Gatow",
+                "opening_hours": "Th-Su 10:00-18:00",
+                "opening_hours:covid19": "restricted",
+                "operator": "Bundeswehr",
+                "operator:type": "government",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1386768,
+                    52.4719263
+                ]
+            },
+            "id": "node/8428338215"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8442525587",
+                "addr:city": "Traunstein",
+                "addr:country": "DE",
+                "addr:housenumber": "3",
+                "addr:postcode": "83278",
+                "addr:street": "Kohlbrennerstraße",
+                "check_date:opening_hours": "2022-08-30",
+                "fee": "no",
+                "museum": "history",
+                "name": "Ausstellung Soleleitung",
+                "opening_hours": "Tu 13:00-15:00; We-Th 11:00-14:00; Sa 10:00-12:00",
+                "opening_hours:covid19": "closed",
+                "operator": "Stadt Traunstein",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6474934,
+                    47.8670284
+                ]
+            },
+            "id": "node/8442525587"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8500372883",
+                "addr:city": "Velen",
+                "addr:housenumber": "4",
+                "addr:postcode": "46342",
+                "addr:street": "Burgplatz",
+                "charge": "2.00 EUR",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Museum Burg Ramsdorf",
+                "opening_hours": "Apr-Oct: Tu-Sa 15:00-17:00, Apr-Oct: Su 14:00-17:00",
+                "operator": "Stadt Velen",
+                "operator:type": "government",
+                "phone": "+49 2863 926219",
+                "tourism": "museum",
+                "website": "https://lebendige-museen.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9192765,
+                    51.8865696
+                ]
+            },
+            "id": "node/8500372883"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8538077401",
+                "museum": "history",
+                "name": "Scherenschnitt Museum",
+                "tourism": "museum",
+                "website": "http://www.scherenschnittmuseum.de/",
+                "wikidata": "Q63888531"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.823368,
+                    52.0356126
+                ]
+            },
+            "id": "node/8538077401"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8538237190",
+                "addr:city": "Kapsweyer",
+                "addr:postcode": "76889",
+                "contact:website": "www.museum-fiftys.de",
+                "museum": "history",
+                "name": "fifty's museum",
+                "opening_hours": "|| \"nach Vereinbarung\"",
+                "operator": "Museumsverein „Fifty‘s“ Kapsweyer e.V.",
+                "tourism": "museum",
+                "website": "https://www.museum-fiftys.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.017104,
+                    49.0441923
+                ]
+            },
+            "id": "node/8538237190"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8538364113",
+                "addr:city": "Vreden",
+                "addr:housenumber": "16",
+                "addr:postcode": "48691",
+                "addr:street": "Neustraße",
+                "museum": "history",
+                "name": "Miniaturschuhmuseum",
+                "tourism": "museum",
+                "website": "http://www.wessels-schuhe.com/schuhmuseum/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8226066,
+                    52.0366236
+                ]
+            },
+            "id": "node/8538364113"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8617329283",
+                "addr:housenumber": "3",
+                "addr:street": "Hamburger Straße",
+                "museum": "history",
+                "name": "Heimatmuseum Bargteheide",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2588193,
+                    53.7278733
+                ]
+            },
+            "id": "node/8617329283"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8638394895",
+                "description": "Waschmittelmuseum in Genthin im 1921 errichteten Waschhaus des ehemaligen Waschmittelwerkes: Geschichte des Waschmittelstandortes Genthin und der Waschmittelherstellung von 1921 bis 2009. Zu sehen sind die 88 jährige Tradition am Standort Genthin und viel",
+                "museum": "history",
+                "name": "Henkel-Museum",
+                "opening_hours:covid19": "restricted",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1668515,
+                    52.4116137
+                ]
+            },
+            "id": "node/8638394895"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8645189338",
+                "museum": "history",
+                "name": "Bauernmuseum Gundelsheim",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8288154,
+                    49.0600929
+                ]
+            },
+            "id": "node/8645189338"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8752264856",
+                "addr:city": "Kaub",
+                "addr:housenumber": "13",
+                "addr:postcode": "56349",
+                "addr:street": "Metzgergasse",
+                "email": "info@kauberschiefer.de",
+                "fee": "no",
+                "image": "https://commons.wikimedia.org/wiki/File:Auf_der_Mauer_14_Metzgergasse_13_(02)_Kaub.jpg",
+                "museum": "history",
+                "name": "Museum für Dachschiefer-Bergbau",
+                "opening_hours": "nach Vereinbarung",
+                "operator": "Kauber Schiefer e.V.",
+                "operator:type": "private_non_profit",
+                "phone": "+49 174 2488215",
+                "start_date": "2022",
+                "tourism": "museum",
+                "website": "https://www.facebook.com/kauberschiefer",
+                "wheelchair": "limited"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7630908,
+                    50.0874363
+                ]
+            },
+            "id": "node/8752264856"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8775482715",
+                "addr:city": "Gomaringen",
+                "addr:housenumber": "1",
+                "addr:postcode": "72810",
+                "addr:street": "Im Schloßhof",
+                "museum": "history",
+                "name": "Gomaringer Schloss- und Gustav Schwab Museum",
+                "operator": "Geschichts- und Altertumsverein Gomaringen e.V.",
+                "operator:type": "community",
+                "ref:isil": "DE-MUS-980510",
+                "tourism": "museum",
+                "website": "http://www.schlossmuseum-gomaringen.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0959007,
+                    48.4528908
+                ]
+            },
+            "id": "node/8775482715"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8791837065",
+                "addr:city": "Freising",
+                "addr:country": "DE",
+                "addr:housenumber": "16",
+                "addr:postcode": "85354",
+                "addr:street": "Obere Domberggasse",
+                "check_date": "2023-01-17",
+                "museum": "history",
+                "name": "Altes Gefängnis Freising",
+                "opening_hours": "Sa 14:00-15:00",
+                "operator": "Altes Gefängnis Freising e.V.",
+                "operator:type": "private_non_profit",
+                "phone": "+49-8161-12843",
+                "tourism": "museum",
+                "website": "https://www.altesgefaengnisfreising.de/museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7450188,
+                    48.4001753
+                ]
+            },
+            "id": "node/8791837065"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8872831903",
+                "museum": "history",
+                "name": "Haus 14",
+                "operator": "Tino Wiedemann",
+                "operator:type": "government",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4657944,
+                    51.1626434
+                ]
+            },
+            "id": "node/8872831903"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8938479833",
+                "addr:housenumber": "9",
+                "addr:street": "Am Pfeifenkopf",
+                "contact:email": "info@urzeithof.de",
+                "contact:phone": "+49 4326 2205",
+                "dog": "yes",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Urzeithof",
+                "note": "Besuche von Schulklassen und anderen Gruppen sind nach Vereinbarung auch zu anderen Zeiten möglich.",
+                "opening_hours": "Sa-Su 14:00-18:00",
+                "operator": "Katrin Mohr",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://www.urzeithof.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2181821,
+                    54.1291363
+                ]
+            },
+            "id": "node/8938479833"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8941022529",
+                "museum": "history",
+                "name": "Historic Agricultural Equipment",
+                "name:de": "Historische Landmaschienen Ausstellung",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6349776,
+                    52.6630365
+                ]
+            },
+            "id": "node/8941022529"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8941022530",
+                "museum": "history",
+                "name": "Historic Irons and Iron equipment",
+                "name:de": "Historische Bügeleisen Ausstellung",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6353608,
+                    52.6628113
+                ]
+            },
+            "id": "node/8941022530"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8945118518",
+                "level": "1",
+                "museum": "history",
+                "name": "Museum in der Eremitage",
+                "opening_hours": "Su[-1] 14:00-17:00; PH off",
+                "operator": "Stadt Waghäusel",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5085155,
+                    49.252466
+                ]
+            },
+            "id": "node/8945118518"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8960105140",
+                "addr:city": "Eggesin",
+                "addr:housenumber": "11A",
+                "addr:postcode": "17367",
+                "addr:street": "Heidestraße",
+                "email": "militaermuseum-eggesin@web.de",
+                "museum": "history",
+                "name": "Militärgeschichtlicher Teil",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Militärhistorischen und technischen Museum Eggesin e.V.",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0800999,
+                    53.6731381
+                ]
+            },
+            "id": "node/8960105140"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8960130388",
+                "addr:city": "Eggesin",
+                "addr:postcode": "17367",
+                "addr:street": "Karl-Marx-Straße",
+                "email": "militaermuseum-eggesin@web.de",
+                "museum": "history",
+                "name": "Technischer Bereich",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Militärhistorisches und technisches Museum Eggesin e.V.",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0772607,
+                    53.6727034
+                ]
+            },
+            "id": "node/8960130388"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/8976365174",
+                "addr:city": "Düsseldorf",
+                "addr:country": "DE",
+                "addr:housenumber": "2",
+                "addr:postcode": "40213",
+                "addr:street": "Mannesmannufer",
+                "description": "Im Behrensbau am Düsseldorfer Rheinufer entsteht das Haus der Geschichte Nordrhein-Westfalen, ein modernes zeitgeschichtliches Museum zur nordrhein-westfälischen Landesgeschichte.",
+                "email": "besucherservice@hdg.nrw",
+                "fee": "no",
+                "museum": "history",
+                "name": "Haus der Geschichte Nordrhein-Westfalen (NRW)",
+                "opening_hours": "2021 Aug 27-2022 May 23: Mo off; 2021 Aug 27-2022 May 23: Tu-Fr 09:00-18:00; 2021 Aug 27-2022 May 23: Sa,Su, PH 10:00-18:00",
+                "operator": "Stiftung Haus der Geschichte Nordrhein-Westfalen",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "https://www.hdg.nrw.de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7679436,
+                    51.2209873
+                ]
+            },
+            "id": "node/8976365174"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9016272531",
+                "addr:city": "Schwanebeck",
+                "addr:housenumber": "1",
+                "addr:postcode": "39397",
+                "addr:street": "Ernst-Thälmann-Straße",
+                "museum": "history",
+                "name": "Puppen- und Teddybärenmusem",
+                "opening_hours": "Mar-Oct: Sa,Su 14:30-18:00; Nov,Dec: Sa,Su 14:30-17:00; Mo-Fr \"nach Vereinbarung\"",
+                "operator": "Simone Schuldt",
+                "operator:type": "private",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1701817,
+                    51.9492204
+                ]
+            },
+            "id": "node/9016272531"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9078529633",
+                "contact:email": "horst.martens1@ewetel.net",
+                "contact:phone": "+49 4402 60388",
+                "fee": "no",
+                "museum": "history",
+                "name": "Ausstellung zur regionalen Postgeschichte",
+                "opening_hours": "\"nach Vereinbarung\"",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1302469,
+                    53.2270372
+                ]
+            },
+            "id": "node/9078529633"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9197911010",
+                "museum": "history",
+                "name": "Grusch'd und Glump",
+                "operator": "Café Möck",
+                "tourism": "museum",
+                "website": "http://www.sommerbob.de/cafemoeck/gruschd-und-glump.html"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1892257,
+                    48.3509497
+                ]
+            },
+            "id": "node/9197911010"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9277839963",
+                "museum": "history",
+                "name": "Stadtmuseum",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3026838,
+                    50.6824985
+                ]
+            },
+            "id": "node/9277839963"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9350241836",
+                "email": "ddr-museum-aschersleben@freenet.de",
+                "museum": "history",
+                "name": "DDR Spielzeugmuseum",
+                "opening_hours": "Tu-Fr 10:00-13:00; Sa 10:00-16:00",
+                "tourism": "museum",
+                "website": "https://www.ddr-spielzeugmuseum-aschersleben.de",
+                "wheelchair": "yes"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4642857,
+                    51.7479626
+                ]
+            },
+            "id": "node/9350241836"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9384386408",
+                "addr:city": "Wernigerode",
+                "addr:housenumber": "2a",
+                "addr:postcode": "38855",
+                "addr:street": "Gießerweg",
+                "description": "Kleine private Überblicksausstellung zum Thema \"form gestaltung in der ddr\". \nGut gestaltete und serienmäßig produzierte Gebrauchsgegenstände aus über 40 Jahren rufen erlebte Geschichte ab. (Zitat wernigerode.de). Kostenlos, Spende möglich.",
+                "email": "form-museum@web.de",
+                "fee": "no",
+                "internet_access": "no",
+                "museum": "history",
+                "name": "form gestaltung in der ddr",
+                "opening_hours": "Sa-Su 10:00-14:00",
+                "operator": "Privat",
+                "tourism": "museum",
+                "website": "www.form-gestaltung-ddr.de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7723749,
+                    51.8401569
+                ]
+            },
+            "id": "node/9384386408"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9398848160",
+                "addr:city": "Erfurt",
+                "addr:housenumber": "2",
+                "addr:postcode": "99084",
+                "addr:street": "Meister-Eckehart-Straße",
+                "contact:website": "https://geschichtsmuseen.erfurt.de/gm/de/museen/stadtmuseum/index.html",
+                "museum": "history",
+                "name": "Luftschutzkeller",
+                "opening_hours": "nach Vereinbarung",
+                "operator": "Stadtmuseum Erfurt",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0301245,
+                    50.9745242
+                ]
+            },
+            "id": "node/9398848160"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9399110350",
+                "addr:city": "Erfurt",
+                "addr:housenumber": "52",
+                "addr:postcode": "99084",
+                "addr:street": "Anger",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Bartholomäusturm",
+                "opening_hours": "nach Vereinbarung",
+                "operator": "Stadtmuseum Erfurt",
+                "operator:type": "public",
+                "tourism": "museum",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0324845,
+                    50.9751416
+                ]
+            },
+            "id": "node/9399110350"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9428648001",
+                "museum": "history",
+                "name": "Heimatmuseum Burgtonna",
+                "operator": "Gemeinde Tonna",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7238086,
+                    51.0664092
+                ]
+            },
+            "id": "node/9428648001"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9463555848",
+                "addr:city": "Quakenbrück",
+                "addr:country": "DE",
+                "addr:housenumber": "7",
+                "addr:postcode": "49610",
+                "addr:street": "Markt",
+                "contact:website": "http://www.stadtmuseum-quakenbrueck.de/",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Stadtmuseum",
+                "opening_hours": "Th, Sa-Su 14:00-17:00",
+                "operator": "Stadtmuseum Quakenbrück e. V.",
+                "operator:type": "association",
+                "tourism": "museum",
+                "wikidata": "Q76636473"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9565706,
+                    52.6754288
+                ]
+            },
+            "id": "node/9463555848"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9521573099",
+                "museum": "history",
+                "name": "Timofei Fotoausstellung",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5484056,
+                    48.1672287
+                ]
+            },
+            "id": "node/9521573099"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9547078537",
+                "museum": "history",
+                "name": "Oberharzer Bergwerksmuseum, Aussenstelle zur Wasserwirtschaft",
+                "tourism": "museum",
+                "website": "https://www.harzwasserwerke.de/ueber-uns/anlagen/oberharzer-wasserwirtschaft/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.344916,
+                    51.8039539
+                ]
+            },
+            "id": "node/9547078537"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9599362317",
+                "addr:city": "Ladbergen",
+                "addr:housenumber": "9",
+                "addr:postcode": "49549",
+                "addr:street": "Am Aabach",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "opening_hours": "\"nach Vereinbarung\"",
+                "operator": "Heimatverein / Hof Jasper-Hildebrand",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "http://www.jasper-hildebrand.de/besichtigungen.html"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7460458,
+                    52.1467014
+                ]
+            },
+            "id": "node/9599362317"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9632940342",
+                "addr:city": "Münsingen",
+                "addr:housenumber": "21",
+                "addr:postcode": "72525",
+                "addr:street": "Mühlsteige",
+                "museum": "history",
+                "name": "Erinnerungsstätte Matthias Erzberger",
+                "opening_hours": "Apr-Oct: Su,PH 13:00-17:00",
+                "tourism": "museum",
+                "website": "http://www.erzberger-museum.de/",
+                "wikidata": "Q1354757",
+                "wikipedia": "de:Erinnerungsstätte Matthias Erzberger"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4776104,
+                    48.3593542
+                ]
+            },
+            "id": "node/9632940342"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9714467183",
+                "museum": "history",
+                "tourism": "museum",
+                "wikidata": "Q76636454"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8978552,
+                    53.8092909
+                ]
+            },
+            "id": "node/9714467183"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9750056175",
+                "addr:city": "Korschenbroich",
+                "addr:housenumber": "2",
+                "addr:postcode": "41352",
+                "addr:street": "Am Bahnhof",
+                "museum": "history",
+                "name": "Museum Kulturbahnhof",
+                "operator": "Heimatverein Korschenbroich",
+                "operator:type": "private_non_profit",
+                "tourism": "museum",
+                "website": "https://heimatverein-korschenbroich.de/?page_id=27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5119359,
+                    51.1954799
+                ]
+            },
+            "id": "node/9750056175"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9775193911",
+                "addr:city": "Rohrbach",
+                "addr:country": "DE",
+                "addr:housenumber": "30",
+                "addr:postcode": "07429",
+                "addr:street": "Ortsstraße",
+                "museum": "history",
+                "name": "Die Rohrbacher Heimatstube",
+                "operator": "Gemeindeamt von Rohrbach",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2201015,
+                    50.6045793
+                ]
+            },
+            "id": "node/9775193911"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9797383528",
+                "addr:city": "Plattling",
+                "addr:housenumber": "23a",
+                "addr:postcode": "94447",
+                "addr:street": "Passauer Straße",
+                "contact:website": "https://www.nepomukverein-plattling.de/das-museum/",
+                "museum": "history",
+                "name": "Nepumuk Museum",
+                "opening_hours": "Öffnung nach telefonischer Absprache unter +49 9931 2827",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8781671,
+                    48.7738037
+                ]
+            },
+            "id": "node/9797383528"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9812623700",
+                "charge": "7 EUR/person;3,50 EUR/child",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Burgmuseum",
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "seasonal": "yes",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8582477,
+                    49.9936896
+                ]
+            },
+            "id": "node/9812623700"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9849960454",
+                "addr:city": "Dabel",
+                "addr:housenumber": "13a",
+                "addr:postcode": "19406",
+                "addr:street": "Lindenstraße",
+                "dog": "no",
+                "fee": "yes",
+                "museum": "history",
+                "name": "DDR Museum Mecklenburg",
+                "operator": "Markus Schmied",
+                "phone": "+49 152 51335683",
+                "smoking": "no",
+                "tourism": "museum",
+                "website": "http://www.ddr-museum-mecklenburg.de",
+                "wheelchair": "no"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8874883,
+                    53.6689045
+                ]
+            },
+            "id": "node/9849960454"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9850402704",
+                "addr:city": "Schwarzburg",
+                "addr:country": "DE",
+                "addr:district": "Saalfeld-Rudolstadt",
+                "addr:housenumber": "1",
+                "addr:postcode": "07427",
+                "addr:state": "Thüringen",
+                "addr:street": "Schloßstraße",
+                "museum": "history",
+                "name": "Fürstliche Erlebniswelten Schloss Schwarzburg",
+                "operator": "Thüringer Landesmuseum Heidecksburg",
+                "tourism": "museum",
+                "website": "https://www.schloss-schwarzburg.com/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1932191,
+                    50.6408878
+                ]
+            },
+            "id": "node/9850402704"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9851340013",
+                "museum": "history",
+                "name": "Schützenmuseum und Sammlung Herzoglicher Kunstbesitze",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.922911,
+                    50.2779068
+                ]
+            },
+            "id": "node/9851340013"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9851790141",
+                "access": "yes",
+                "addr:city": "Bopfingen",
+                "description": "Museum der keltischen Architektur und Kultur",
+                "fee": "no",
+                "museum": "history",
+                "name": "Freilichtmuseum am Ipf",
+                "opening_hours": "24/7",
+                "operator": "Stadt Bopfingen",
+                "tourism": "museum",
+                "website": "https://www.bopfingen.de/Startseite/kultur+_+tourismus/freilichtmuseum+am+ipf.html"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3672431,
+                    48.8702324
+                ]
+            },
+            "id": "node/9851790141"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9906874147",
+                "addr:city": "Schwäbisch Gmünd",
+                "addr:postcode": "73525",
+                "addr:street": "Marktplatz 7",
+                "contact:mobile": "+49 171 3257195",
+                "contact:telegram": "+49 171 3257195",
+                "description": "Staufersagarundbild und Epos zur Stadtgeschichte und Werke des Stadtmalers Hans Kloss (1938-2018); Führungen auf Anfrage: ½ Stunde 10 Euro, 1 Stunde 20 Euro",
+                "email": "cbaechtold@t-online.de",
+                "fee": "no",
+                "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Gr%C3%A4t_GD2.jpg",
+                "level": "1",
+                "museum": "history",
+                "name": "Museum Panoramamuseum und Epos zur Stadtgeschichte",
+                "opening_hours": "Sa-Su 13:00-17:00; Mo-Fr \"nach telefonischer Vereinbarung\"",
+                "operator": "Panoramamuseum",
+                "operator:type": "public",
+                "phone": "+49 171 3257195",
+                "tourism": "museum",
+                "wikidata": "Q111461821",
+                "wikipedia": "de:Panoramamuseum Schwäbisch Gmünd"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7977007,
+                    48.7995502
+                ]
+            },
+            "id": "node/9906874147"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9925104381",
+                "addr:city": "Herborn",
+                "addr:housenumber": "40",
+                "addr:postcode": "35745",
+                "addr:street": "Austraße",
+                "contact:email": "kerstin.pulveric@)vitos-herborn.de",
+                "contact:phone": "+49 2772 5041751",
+                "museum": "history",
+                "name": "Psychatriemuseum",
+                "opening_hours": "\"nach telefonischer Voranmeldung\"",
+                "operator": "Vitos Herborn",
+                "operator:type": "public",
+                "tourism": "museum",
+                "url": "https://de.wikipedia.org/wiki/Vitos_Herborn#Psychiatriemuseum_Herborn",
+                "website": "https://vitos.de/gesellschaften/vitos-herborn/psychiatriemuseum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3042975,
+                    50.6728133
+                ]
+            },
+            "id": "node/9925104381"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/9992358098",
+                "addr:city": "Brandenburg an der Havel",
+                "addr:housenumber": "2",
+                "addr:postcode": "14772",
+                "addr:street": "Anton-Saefkow-Allee",
+                "museum": "history",
+                "name": "Psychiatriemuseum",
+                "opening_hours": "auf Anfrage / on demand",
+                "operator": "Psychiatriemuseum - Asklepios Fachklinikum Brandenburg",
+                "operator:type": "private",
+                "tourism": "museum",
+                "website": "https://www.stadt-brandenburg.de/kultur/museen/psychiatriemuseum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4780521,
+                    52.425731
+                ]
+            },
+            "id": "node/9992358098"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10006646617",
+                "addr:city": "Halle (Westf.)",
+                "addr:housenumber": "17",
+                "addr:postcode": "33790",
+                "addr:street": "Bahnhofstraße",
+                "description": "Das Geschichtsmuseum Haller ZeitRäume existiert derzeit nur virtuell. Eine Ausstellung befindet sich in den Räumlichkeiten hier NICHT! Lediglich das Büro des Museums",
+                "email": "post@haller-zeitraeume.de",
+                "museum": "history",
+                "name": "Haller ZeitRäume - Virtuelles Geschichtsmuseum der Stadt Halle Westfalen (Museumsbüro)",
+                "opening_hours": "Sa[1,2,4] 10:00-12:00; Sa[3] closed",
+                "operator": "Stadt Halle/Westfalen",
+                "operator:type": "community",
+                "phone": "+49 (0)5201 183256",
+                "tourism": "museum",
+                "website": "https://www.haller-zeitraeume.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3610528,
+                    52.0599951
+                ]
+            },
+            "id": "node/10006646617"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10006918247",
+                "addr:city": "Konnersreuth",
+                "addr:housenumber": "20",
+                "addr:postcode": "95692",
+                "addr:street": "Hauptstraße",
+                "museum": "history",
+                "name": "Theres-Neumann-Museum",
+                "opening_hours": "Mo-Su 10:00-16:00",
+                "operator": "Markt Konnersreuth",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2242113,
+                    50.0120348
+                ]
+            },
+            "id": "node/10006918247"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10029835441",
+                "addr:city": "Herleshausen",
+                "addr:housenumber": "22",
+                "addr:postcode": "37293",
+                "addr:street": "Eisenacher Straße",
+                "fee": "no",
+                "internet_access": "no",
+                "level": "0",
+                "museum": "history",
+                "name": "WERRAGrenzPark",
+                "opening_hours": "PH,Mo-Su 00:00-24:00",
+                "operator": "WERRAGrenzPark e.V.",
+                "tourism": "museum",
+                "website": "https://www.werragrenzpark.info",
+                "wheelchair": "limited"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1778761,
+                    51.0051071
+                ]
+            },
+            "id": "node/10029835441"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10036632578",
+                "museum": "history",
+                "name": "Laubenmuseum",
+                "note": "geöffnet Mai-September jeden 2. Sonntag 14:00-17:00 (5/23)\nzur Zeit geschlossen (9/2022)",
+                "opening_hours": "Nov-Apri closed; May-Oct Su,PH 13:00-16:00",
+                "website": "https://kleingaertner-nuernberg.de/laubenmuseum/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1258778,
+                    49.405635
+                ]
+            },
+            "id": "node/10036632578"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10102168982",
+                "addr:city": "Hann. Münden",
+                "addr:housenumber": "17",
+                "addr:postcode": "34346",
+                "addr:street": "Radbrunnenstraße",
+                "email": "konnex@dr-wolfs-wunderkammer.de",
+                "museum": "history",
+                "name": "Dr. Wolfs Wunderkammer",
+                "operator": "Zeitsprünge e.V.",
+                "payment:cash": "yes",
+                "payment:paypal": "yes",
+                "phone": "+4915908306366",
+                "tourism": "museum",
+                "website": "https://www.dr-wolfs-wunderkammer.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6499837,
+                    51.4149091
+                ]
+            },
+            "id": "node/10102168982"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10102168983",
+                "addr:city": "Hann. Münden",
+                "addr:housenumber": "17",
+                "addr:postcode": "34346",
+                "addr:street": "Radbrunnenstraße",
+                "email": "info@forgottencreatures.de",
+                "museum": "history",
+                "name": "Forgotten Creatures",
+                "operator": "Zeitsprünge e.V.",
+                "tourism": "museum",
+                "website": "https://forgottencreatures.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.649953,
+                    51.4149215
+                ]
+            },
+            "id": "node/10102168983"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10154918993",
+                "check_date:opening_hours": "2023-01-21",
+                "fee": "no",
+                "museum": "history",
+                "name": "Kleines Eichwalder Museum für Ortsgeschichte",
+                "opening_hours:signed": "no",
+                "operator": "Ortschronist Eichwalde",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.627162,
+                    52.3767447
+                ]
+            },
+            "id": "node/10154918993"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10287937945",
+                "addr:city": "Freiburg im Breisgau",
+                "addr:housenumber": "5",
+                "addr:postcode": "79100",
+                "addr:street": "Lugostraße",
+                "museum": "history",
+                "name": "Heimatwohnmuseum",
+                "operator": "Dr. Hermann Hein",
+                "operator:type": "private",
+                "phone": "+49 761 74360",
+                "tourism": "museum",
+                "website": "https://www.heimatwohnmuseum-freiburg.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8447079,
+                    47.9806271
+                ]
+            },
+            "id": "node/10287937945"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10292191841",
+                "museum": "history",
+                "name": "Hüttenmuseum",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4589119,
+                    51.619638
+                ]
+            },
+            "id": "node/10292191841"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10300188016",
+                "addr:city": "Eisenach",
+                "addr:housenumber": "1",
+                "addr:postcode": "99817",
+                "addr:street": "Auf der Wartburg",
+                "museum": "history",
+                "name": "Wartburg-Museum",
+                "operator": "Wartburgstiftung",
+                "operator:type": "private",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3064575,
+                    50.9660946
+                ]
+            },
+            "id": "node/10300188016"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10300188019",
+                "addr:city": "Eisenach",
+                "addr:housenumber": "6",
+                "addr:postcode": "99817",
+                "addr:street": "Rennbahn",
+                "museum": "history",
+                "name": "Sparkassen-Museum",
+                "operator": "Wartburgsparkasse",
+                "operator:type": "private",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3246338,
+                    50.9801195
+                ]
+            },
+            "id": "node/10300188019"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10312625479",
+                "addr:city": "Treffurt",
+                "addr:housenumber": "1",
+                "addr:postcode": "99830",
+                "addr:street": "Hessisches Ende",
+                "museum": "history",
+                "name": "Heimatmuseum",
+                "operator:type": "community",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1717456,
+                    51.1360741
+                ]
+            },
+            "id": "node/10312625479"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10565108683",
+                "addr:city": "Seevetal",
+                "addr:housenumber": "21",
+                "addr:postcode": "21220",
+                "addr:street": "Schulheide",
+                "museum": "history",
+                "name": "Deutsches-Greenkeeper-Museum e. V.",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0304054,
+                    53.3738158
+                ]
+            },
+            "id": "node/10565108683"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10565109412",
+                "addr:city": "Seevetal",
+                "addr:housenumber": "14",
+                "addr:postcode": "21218",
+                "addr:street": "Bahnhofstraße",
+                "museum": "history",
+                "name": "Schuh-Museum-Hittfeld",
+                "phone": "+49 4105 52798",
+                "tourism": "museum",
+                "website": "http://museen.de/schuhmuseum-mit-schuhkunstausstellung-hittfeld.html"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9830841,
+                    53.3884701
+                ]
+            },
+            "id": "node/10565109412"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10565109715",
+                "addr:city": "Marxen",
+                "addr:housenumber": "20",
+                "addr:postcode": "21439",
+                "addr:street": "Hauptstraße",
+                "museum": "history",
+                "name": "Feuerwehrmuseum Marxen",
+                "operator": "Freilichtmuseum am Kiekeberg",
+                "operator:type": "public",
+                "tourism": "museum",
+                "website": "https://www.kiekeberg-museum.de/blick-ins-museum/aussenstellen/feuerwehrmuseum-marxen/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.010403,
+                    53.3092704
+                ]
+            },
+            "id": "node/10565109715"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10576388140",
+                "addr:city": "Harzgerode",
+                "addr:housenumber": "115",
+                "addr:postcode": "06493",
+                "addr:street": "Markt",
+                "museum": "history",
+                "name": "Heimatstube",
+                "operator": "Heimatverein Dankerode e.V.",
+                "operator:type": "public",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1380082,
+                    51.5907465
+                ]
+            },
+            "id": "node/10576388140"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10610803512",
+                "addr:city": "Kulmbach",
+                "addr:housenumber": "20",
+                "addr:postcode": "95326",
+                "addr:street": "Hofer Straße",
+                "museum": "history",
+                "name": "Bayerisches Bäckereimuseum",
+                "opening_hours": "Tu-Su 10:00-17:00",
+                "operator": "Museen im Kulmbacher Mönchshof e.V",
+                "operator:type": "museum",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4701314,
+                    50.1149923
+                ]
+            },
+            "id": "node/10610803512"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10723907129",
+                "addr:city": "Oberhausen",
+                "addr:housenumber": "13",
+                "addr:postcode": "46047",
+                "addr:street": "Alte Heid",
+                "contact:email": "gedenkhalle-bunkermuseum@oberhausen.de",
+                "contact:phone": "+49 208 6070531-0",
+                "museum": "history",
+                "name": "Bunkermuseum",
+                "operator": "Stadt Oberhausen",
+                "operator:type": "government",
+                "tourism": "museum",
+                "website": "https://bunkermuseum-oberhausen.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8827644,
+                    51.4773801
+                ]
+            },
+            "id": "node/10723907129"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10725034352",
+                "addr:city": "Hinterzarten",
+                "addr:housenumber": "31",
+                "addr:postcode": "79856",
+                "addr:street": "Bruderhalde",
+                "email": "alois@schubnell.de",
+                "fee": "yes",
+                "museum": "history",
+                "name": "Museum für alte Landtechnik",
+                "opening_hours": "Th 14:00-17:00",
+                "operator": "Bankenhof GbR",
+                "operator:type": "private",
+                "phone": "+49 7652 982136",
+                "tourism": "museum",
+                "website": "www.alte-landtechnik.de"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1283495,
+                    47.8883364
+                ]
+            },
+            "id": "node/10725034352"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10836812679",
+                "addr:city": "Aßlar-Werdorf",
+                "addr:housenumber": "48",
+                "addr:postcode": "35614",
+                "addr:street": "Bachstraße",
+                "museum": "history",
+                "name": "Heimatmuseum der Stadt Aßlar im Schloss zu Werdorf",
+                "phone": "+496443833207",
+                "tourism": "museum",
+                "website": "http://www.heimatverein-werdorf.de/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4175737,
+                    50.5993769
+                ]
+            },
+            "id": "node/10836812679"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10916675949",
+                "addr:city": "Esterwegen",
+                "addr:housenumber": "1",
+                "addr:postcode": "26897",
+                "addr:street": "Hinterm Busch",
+                "contact:phone": "+49 5955 988950",
+                "contact:website": "https://www.gedenkstaette-esterwegen.de/",
+                "museum": "history",
+                "name": "Gedenkstätte Esterwegen",
+                "operator": "Stiftung Gedenkstätte Esterwegen",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.640977,
+                    53.0087655
+                ]
+            },
+            "id": "node/10916675949"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10921475795",
+                "description": "Das kleine Museum zum Silberbergwerk ist kostenlos.",
+                "fee": "no",
+                "level": "1",
+                "museum": "history",
+                "name": "Silberbergwerk",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.121516,
+                    49.0591015
+                ]
+            },
+            "id": "node/10921475795"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10944275641",
+                "description": "Diorama der Schlacht im Lohner Bruch 1623",
+                "museum": "history",
+                "name": "ehem. Marienschule",
+                "opening_hours": "nach Anmeldung beim Heimatverein oder Stadtarchiv",
+                "operator": "Stadtarchiv Stadtlohn",
+                "tourism": "museum",
+                "website": "https://www.stadtmarketing-stadtlohn.de/freizeit-tourismus/sehenswertes/diorama-zur-schlacht-im-lohner-bruch/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9132858,
+                    51.9921564
+                ]
+            },
+            "id": "node/10944275641"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10959576469",
+                "addr:city": "Berlin",
+                "addr:housenumber": "91",
+                "addr:postcode": "10117",
+                "addr:street": "Zimmerstraße",
+                "museum": "history",
+                "name": "TimeRide",
+                "official_name": "TimeRide Senseum Berlin",
+                "tourism": "museum",
+                "website": "https://timeride.de/berlin"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3880411,
+                    52.5077349
+                ]
+            },
+            "id": "node/10959576469"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10960004778",
+                "museum": "history",
+                "opening_hours": "closed",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4001785,
+                    51.4085082
+                ]
+            },
+            "id": "node/10960004778"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "@id": "node/10962881660",
+                "addr:city": "Kierspe",
+                "addr:housenumber": "23",
+                "addr:postcode": "58566",
+                "addr:street": "Höferhof",
+                "museum": "history",
+                "name": "Fritz-Linde-Museum",
+                "opening_hours": "jeden 1. Dienstag im Monat von 15 bis 17 Uhr",
+                "operator": "Heimatverein",
+                "tourism": "museum"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5896989,
+                    51.1267127
+                ]
+            },
+            "id": "node/10962881660"
+        }
+    ]
+}
