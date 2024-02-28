@@ -1,0 +1,6734 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-05-29T13:50:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28096928",
+        "leisure": "golf_course",
+        "name": "Golfclub Syke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8563165,
+          52.9391044
+        ]
+      },
+      "id": "node/28096928"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/29862369",
+        "leisure": "miniature_golf",
+        "name": "Cany - Barville Anlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2828465,
+          49.0328014
+        ]
+      },
+      "id": "node/29862369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253600128",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.403393,
+          49.9981156
+        ]
+      },
+      "id": "node/253600128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/260670600",
+        "leisure": "miniature_golf",
+        "name": "Immacolata Eisdiele & Minigolf",
+        "operator": "Immacolata Eisdiele & Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0707251,
+          50.7725193
+        ]
+      },
+      "id": "node/260670600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/263731703",
+        "leisure": "miniature_golf",
+        "name": "Minigolfplatz Traben-Trarbach",
+        "opening_hours": "Mo-Fr 11:30-sunset; Sa,Su,PH 10:30-sunset; Jul-Aug: Mo-Su 10:30-sunset",
+        "phone": "+49 6541 6947",
+        "website": "https://www.mgctratra.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1106283,
+          49.9328841
+        ]
+      },
+      "id": "node/263731703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271787847",
+        "leisure": "miniature_golf",
+        "name": "Minigolf am Wölkbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8299494,
+          48.6275174
+        ]
+      },
+      "id": "node/271787847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271944767",
+        "addr:city": "Handeloh",
+        "addr:housenumber": "93",
+        "addr:postcode": "21256",
+        "addr:street": "Wörmer Straße",
+        "leisure": "miniature_golf",
+        "name": "Thommy's Mini-Treff Minigolf",
+        "opening_hours": "Mar-Oct: open",
+        "operator": "Thommy's Mini-Treff Minigolf",
+        "phone": "+49 4188 7310",
+        "source": "survey",
+        "tourism": "attraction",
+        "website": "https://www.handeloh.de/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.842969,
+          53.2579926
+        ]
+      },
+      "id": "node/271944767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272010153",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4191863,
+          54.8247783
+        ]
+      },
+      "id": "node/272010153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272609351",
+        "leisure": "golf_course",
+        "name": "Golfplatz Bad Saulgau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4852316,
+          47.9780727
+        ]
+      },
+      "id": "node/272609351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/274119010",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0596025,
+          50.9943332
+        ]
+      },
+      "id": "node/274119010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/275308243",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6888684,
+          50.6400263
+        ]
+      },
+      "id": "node/275308243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280985406",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.714038,
+          53.1674435
+        ]
+      },
+      "id": "node/280985406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/286277244",
+        "addr:city": "Reutlingen",
+        "addr:country": "DE",
+        "addr:housenumber": "32",
+        "addr:postcode": "72768",
+        "addr:street": "Wartburgstraße",
+        "addr:suburb": "Sickenhausen",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage Sickenhausen",
+        "opening_hours": "Tu-Fr 18:00-22:00; Sa-Su 14:00-22:00",
+        "phone": "+49 7121 67277",
+        "website": "http://www.minigolf-sickenhausen.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1904168,
+          48.5310456
+        ]
+      },
+      "id": "node/286277244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289450213",
+        "leisure": "golf_course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8100861,
+          49.7899846
+        ]
+      },
+      "id": "node/289450213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289877331",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1153988,
+          50.2917441
+        ]
+      },
+      "id": "node/289877331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296305920",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Da Vinci"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5950945,
+          51.19266
+        ]
+      },
+      "id": "node/296305920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297187862",
+        "description": "Minigolfanlage unter der Kölner Zoobrücke",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9787326,
+          50.9524436
+        ]
+      },
+      "id": "node/297187862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297583297",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5027536,
+          50.6259123
+        ]
+      },
+      "id": "node/297583297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297864213",
+        "addr:city": "Köngen",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Ponderosa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3836151,
+          48.6932987
+        ]
+      },
+      "id": "node/297864213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/298869683",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9233318,
+          50.4452317
+        ]
+      },
+      "id": "node/298869683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/303474979",
+        "created_by": "Potlatch 0.10d",
+        "leisure": "golf_course",
+        "name": "Golfanlage Holledau",
+        "website": "https://www.golfclubholledau.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.8123468,
+          48.5708203
+        ]
+      },
+      "id": "node/303474979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307409151",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3670792,
+          48.6083871
+        ]
+      },
+      "id": "node/307409151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/307710281",
+        "leisure": "miniature_golf",
+        "name": "Minigolfpark Leiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8268913,
+          49.4766827
+        ]
+      },
+      "id": "node/307710281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/311598621",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5313148,
+          49.4780361
+        ]
+      },
+      "id": "node/311598621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319965172",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9940612,
+          51.5452001
+        ]
+      },
+      "id": "node/319965172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/325097925",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4841394,
+          48.8484775
+        ]
+      },
+      "id": "node/325097925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/326931014",
+        "addr:city": "Bad Zwischenahn",
+        "addr:country": "DE",
+        "addr:hamlet": "Elmendorf",
+        "addr:housenumber": "10",
+        "addr:postcode": "26160",
+        "addr:street": "Ebereschenstraße",
+        "email": "sekretariat@golfclub-am-meer.de",
+        "fax": "+49 4403 63867",
+        "leisure": "golf_course",
+        "name": "Golfclub am Meer",
+        "phone": "+49 4403 63866",
+        "website": "www.golfclub-am-meer.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9979407,
+          53.2088297
+        ]
+      },
+      "id": "node/326931014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335885129",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0625252,
+          52.2618263
+        ]
+      },
+      "id": "node/335885129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338218144",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4620341,
+          54.0239263
+        ]
+      },
+      "id": "node/338218144"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/354880953",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7019392,
+          53.9233708
+        ]
+      },
+      "id": "node/354880953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364721118",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9846844,
+          50.7353086
+        ]
+      },
+      "id": "node/364721118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/366626855",
+        "leisure": "miniature_golf",
+        "name:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3629961,
+          52.5649424
+        ]
+      },
+      "id": "node/366626855"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/368348735",
+        "leisure": "miniature_golf",
+        "name": "Minigolf",
+        "opening_hours": "Sep-Jun PH,Mo-Su 10:00-18:00; Jul-Aug PH,Mo-Su 10:00-19:00",
+        "payment:girocard": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3485204,
+          52.4516842
+        ]
+      },
+      "id": "node/368348735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/369108573",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2519852,
+          52.1500491
+        ]
+      },
+      "id": "node/369108573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/379560066",
+        "leisure": "miniature_golf",
+        "name": "Hamburger Minigolf Club von 1965 e.V.",
+        "opening_hours": "\"nur im Sommer, meist ab Mittag. aktuell kein Schild\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1451877,
+          53.6172982
+        ]
+      },
+      "id": "node/379560066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/379604312",
+        "addr:housenumber": "6",
+        "addr:street": "Ulmenstraße",
+        "check_date": "2023-05-09",
+        "email": "info@fuerther-freizeit.de",
+        "internet_access": "no",
+        "leisure": "miniature_golf",
+        "level": "0",
+        "name": "Fürther FreiZeit",
+        "opening_hours": "Mo-Sa 11:00-22:00; Su,PH 12:00-22:00",
+        "operator": "Andreas BuorteschFürther FreiZeit",
+        "payment:cards": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+49 176 61377906",
+        "website": "https://www.fuerther-freizeit.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9931802,
+          49.4814802
+        ]
+      },
+      "id": "node/379604312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/380746875",
+        "leisure": "miniature_golf",
+        "name": "Dürrbachpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9077134,
+          49.8737159
+        ]
+      },
+      "id": "node/380746875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/383900304",
+        "leisure": "golf_course",
+        "name": "Golfcourse Bonn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1900267,
+          50.7539778
+        ]
+      },
+      "id": "node/383900304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/386831432",
+        "leisure": "golf_course",
+        "name": "Golfclub auf der Gsteig Lechbruck"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.784249,
+          47.7057784
+        ]
+      },
+      "id": "node/386831432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/388819489",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0782692,
+          52.2373829
+        ]
+      },
+      "id": "node/388819489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/392650663",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7418729,
+          51.2167918
+        ]
+      },
+      "id": "node/392650663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/393671317",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0155221,
+          50.3751142
+        ]
+      },
+      "id": "node/393671317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409492549",
+        "leisure": "golf_course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4085727,
+          51.0814846
+        ]
+      },
+      "id": "node/409492549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411032427",
+        "contact:phone": "+163 9249754",
+        "leisure": "miniature_golf",
+        "name": "Mini-Golf",
+        "website": "http://www.minigolf-insel-poel.metro.biz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4251197,
+          54.0137081
+        ]
+      },
+      "id": "node/411032427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/413676793",
+        "leisure": "miniature_golf",
+        "opening_hours": "Mo 14:00-19:00;We-Sa 14:00-19:00;Su 12:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0492909,
+          52.1717214
+        ]
+      },
+      "id": "node/413676793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414179531",
+        "leisure": "golf_course",
+        "name": "Swin Golf - Waldhotel Lauf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3117552,
+          52.1726764
+        ]
+      },
+      "id": "node/414179531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414582781",
+        "leisure": "golf_course",
+        "name": "Golf-Club Konstanz e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0922643,
+          47.7635694
+        ]
+      },
+      "id": "node/414582781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/415416462",
+        "leisure": "golf_course",
+        "name": "Minigolfplatz, außer Betrieb",
+        "opening_hours": "\"außer Betrieb\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.880677,
+          50.8307278
+        ]
+      },
+      "id": "node/415416462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/415504885",
+        "addr:city": "Königsbronn",
+        "addr:housenumber": "56",
+        "addr:postcode": "89551",
+        "addr:street": "Uferstraße",
+        "building": "yes",
+        "email": "Oelkuch@t-online.de",
+        "leisure": "miniature_golf",
+        "name": "Kiosk am Itzelberger See",
+        "opening_hours": "Mar-Apr 12:00-18:00; May-Aug 10:00-21:00; Sep 15-Feb 29 12:00-18:00",
+        "operator": "Spiel Sport Freizeit GBR",
+        "outdoor_seating": "yes",
+        "shop": "kiosk",
+        "toilets:wheelchair": "yes",
+        "website": "http://itzelbergersee.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1311241,
+          48.7319697
+        ]
+      },
+      "id": "node/415504885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418748781",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.012976,
+          50.0579726
+        ]
+      },
+      "id": "node/418748781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/427714351",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8646572,
+          51.343628
+        ]
+      },
+      "id": "node/427714351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/429874922",
+        "leisure": "miniature_golf",
+        "operator": "Tourismus GmbH Wingst"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0788602,
+          53.741409
+        ]
+      },
+      "id": "node/429874922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/434097991",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1664006,
+          51.6333403
+        ]
+      },
+      "id": "node/434097991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442703157",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Minigolfplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1104886,
+          47.9485349
+        ]
+      },
+      "id": "node/442703157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/443214942",
+        "amenity": "cafe",
+        "leisure": "miniature_golf",
+        "name": "Minigolf",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0133694,
+          48.4011543
+        ]
+      },
+      "id": "node/443214942"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450134369",
+        "leisure": "golf_course",
+        "name": "Wendelinus Golfpark",
+        "website": "https://www.golf-absolute.de/stwendel/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.138471,
+          49.4766679
+        ]
+      },
+      "id": "node/450134369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450224467",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5415852,
+          51.6026415
+        ]
+      },
+      "id": "node/450224467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/451701035",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Adventure Golf",
+        "website": "https://www.weissenhaeuserstrand.de/attraktionen/freizeitangebote/adventure-golf/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.799613,
+          54.310982
+        ]
+      },
+      "id": "node/451701035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/452629507",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7459645,
+          51.2571347
+        ]
+      },
+      "id": "node/452629507"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457470823",
+        "leisure": "miniature_golf",
+        "name": "Minigolf König-Max-Höhe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5551468,
+          48.5845388
+        ]
+      },
+      "id": "node/457470823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/465905690",
+        "leisure": "miniature_golf",
+        "name": "Minigolf am Hörnle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2120346,
+          47.6672607
+        ]
+      },
+      "id": "node/465905690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/472772650",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.679053,
+          50.0527197
+        ]
+      },
+      "id": "node/472772650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473855713",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0180356,
+          47.5570146
+        ]
+      },
+      "id": "node/473855713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/475533211",
+        "brewery": "Zötler",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage im Steinbruch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3327728,
+          47.7139473
+        ]
+      },
+      "id": "node/475533211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/479508913",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2988896,
+          52.6044466
+        ]
+      },
+      "id": "node/479508913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482245684",
+        "addr:housenumber": "8",
+        "addr:street": "In der Au",
+        "check_date": "2022-10-27",
+        "internet_access": "no",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Burgkunstadt Außenanlage",
+        "opening_hours": "Mo-Tu off; We-Su,PH 10:00-21:00",
+        "operator": "Kerstin Bornschlegel",
+        "payment:cards": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+49 9572 382108",
+        "website": "https://www.minigolf-burgkunstadt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2519617,
+          50.1355976
+        ]
+      },
+      "id": "node/482245684"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482245694",
+        "addr:city": "Burgkunstadt",
+        "addr:housenumber": "8",
+        "addr:postcode": "96224",
+        "addr:street": "In der Au",
+        "check_date": "2022-10-27",
+        "internet_access": "no",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Burgkunstadt Hallenanlage",
+        "opening_hours": "Mo-Tu off; We-Su,PH 10:00-21:00",
+        "operator": "Kerstin Bornschlegel",
+        "payment:cards": "no",
+        "payment:credit_cards": "no",
+        "payment:debit_cards": "no",
+        "phone": "+49 9572 382108",
+        "website": "https://www.minigolf-burgkunstadt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2517386,
+          50.1351354
+        ]
+      },
+      "id": "node/482245694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/482754799",
+        "leisure": "miniature_golf",
+        "name": "Hirsch Erlebniswald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.84285,
+          48.0748095
+        ]
+      },
+      "id": "node/482754799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/486621170",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage Burghausen",
+        "opening_hours": "Apr 12:00-19:00;May-Sep 10:00-22:00;Oct-Nov 12:00-19:00",
+        "operator": "Andy Stadler",
+        "phone": "+49 170 470 55 41",
+        "website": "http://tourismus.burghausen.de/content/index.cfm/fuseaction/27,dsp,0,1,0,0,0,0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8274922,
+          48.1560226
+        ]
+      },
+      "id": "node/486621170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/497538600",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2228897,
+          48.9822876
+        ]
+      },
+      "id": "node/497538600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/499441545",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5378887,
+          52.5278859
+        ]
+      },
+      "id": "node/499441545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506802486",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3747337,
+          48.715086
+        ]
+      },
+      "id": "node/506802486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/510885122",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5905007,
+          48.5882927
+        ]
+      },
+      "id": "node/510885122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/521990139",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5138208,
+          48.8101759
+        ]
+      },
+      "id": "node/521990139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/529082526",
+        "leisure": "miniature_golf",
+        "name": "Mini-Freizeitpark West"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7357852,
+          54.1504558
+        ]
+      },
+      "id": "node/529082526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/534884360",
+        "leisure": "miniature_golf",
+        "opening_hours": "11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.977667,
+          54.7684402
+        ]
+      },
+      "id": "node/534884360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/564021353",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0347671,
+          48.0796638
+        ]
+      },
+      "id": "node/564021353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/565725974",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2572426,
+          51.6586516
+        ]
+      },
+      "id": "node/565725974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/579985723",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5236672,
+          51.7520777
+        ]
+      },
+      "id": "node/579985723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/582218494",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6144674,
+          53.3083156
+        ]
+      },
+      "id": "node/582218494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/592801197",
+        "leisure": "miniature_golf",
+        "name": "1. Minigolfclub Süßen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7702091,
+          48.6804169
+        ]
+      },
+      "id": "node/592801197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/596602102",
+        "addr:city": "Asperg",
+        "addr:housenumber": "95",
+        "addr:street": "Bahnhofstraße",
+        "leisure": "miniature_golf",
+        "name": "Indoor Minigolf",
+        "toilets:wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1468383,
+          48.9074433
+        ]
+      },
+      "id": "node/596602102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/625390744",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0896341,
+          51.9289735
+        ]
+      },
+      "id": "node/625390744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/638620141",
+        "leisure": "miniature_golf",
+        "note": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7220758,
+          53.9356172
+        ]
+      },
+      "id": "node/638620141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/649951031",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1310357,
+          50.7387867
+        ]
+      },
+      "id": "node/649951031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/655136289",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4131743,
+          50.3194972
+        ]
+      },
+      "id": "node/655136289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/665990132",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Peine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2346314,
+          52.3223617
+        ]
+      },
+      "id": "node/665990132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/686969467",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.43233,
+          53.3353675
+        ]
+      },
+      "id": "node/686969467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/691443192",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1150581,
+          50.6434726
+        ]
+      },
+      "id": "node/691443192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/699113913",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6333514,
+          50.6009365
+        ]
+      },
+      "id": "node/699113913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/710442255",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0442228,
+          52.6173176
+        ]
+      },
+      "id": "node/710442255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/724508862",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5834601,
+          48.7694723
+        ]
+      },
+      "id": "node/724508862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/752597182",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0968546,
+          49.2992931
+        ]
+      },
+      "id": "node/752597182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/759485372",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3428305,
+          50.5682892
+        ]
+      },
+      "id": "node/759485372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/760425983",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6585165,
+          51.1044296
+        ]
+      },
+      "id": "node/760425983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769431254",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Marktheidenfeld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5973668,
+          49.8395525
+        ]
+      },
+      "id": "node/769431254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769894698",
+        "fee": "no",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0312119,
+          52.6036729
+        ]
+      },
+      "id": "node/769894698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/786735334",
+        "leisure": "miniature_golf",
+        "name": "Minigolf",
+        "website": "https://www.minigolf-monschau.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2855442,
+          50.5489102
+        ]
+      },
+      "id": "node/786735334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/796330966",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Haidweiher"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9157582,
+          49.4238833
+        ]
+      },
+      "id": "node/796330966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/820910968",
+        "leisure": "miniature_golf",
+        "opening_hours": "Mo-Fr 14:00+; Sa,Su 11:00+",
+        "website": "http://www.schmidt-flammersfeld.de/html/minigolf.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5235263,
+          50.6468815
+        ]
+      },
+      "id": "node/820910968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/850633988",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.260795,
+          49.7235279
+        ]
+      },
+      "id": "node/850633988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/851618749",
+        "leisure": "miniature_golf",
+        "name": "Nis Puk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.654569,
+          54.5024165
+        ]
+      },
+      "id": "node/851618749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/860432664",
+        "leisure": "miniature_golf",
+        "name": "Butze",
+        "opening_hours": "Tu-Fr 14:00-22:00, Fr,Sa 14:00-24:00, Su 10:00-22:00; Mo off",
+        "website": "https://butze-minigolf.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1727989,
+          48.6219128
+        ]
+      },
+      "id": "node/860432664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/891033009",
+        "leisure": "miniature_golf",
+        "name": "MINIGOLF-PLATZ (oder Minigolfplatz)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7311765,
+          51.3830966
+        ]
+      },
+      "id": "node/891033009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/891538379",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Am Tierpark",
+        "opening_hours": "Mar-Oct We 13:00+ \"wetterabhängig\", Mar-Oct Sa 12:00+ \"wetterabhängig\", Mar-Oct Su,PH 11:00+ \"wetterabhängig\", Mar-Oct SH Mo-Su 13:00+ \"wetterabhängig\"",
+        "website": "https://gysenberg.de/minigolf-am-forsthaus/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2571115,
+          51.5292788
+        ]
+      },
+      "id": "node/891538379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918803919",
+        "addr:city": "Bockhorn",
+        "addr:country": "DE",
+        "addr:housenumber": "35a",
+        "addr:postcode": "26345",
+        "addr:street": "Urwaldstraße",
+        "leisure": "miniature_golf",
+        "phone": "+49 4453 71815"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9988743,
+          53.3990046
+        ]
+      },
+      "id": "node/918803919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/937152200",
+        "leisure": "miniature_golf",
+        "name": "Minigolfplatz Mackenzell",
+        "opening_hours": "Th-Su 14:00-20:00",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7879449,
+          50.6554832
+        ]
+      },
+      "id": "node/937152200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/948799949",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0996076,
+          48.0516316
+        ]
+      },
+      "id": "node/948799949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/989065412",
+        "leisure": "golf_course",
+        "name": "Driving Range"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6251143,
+          53.7849976
+        ]
+      },
+      "id": "node/989065412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/989065906",
+        "leisure": "golf_course",
+        "name": "Golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.624941,
+          53.7853791
+        ]
+      },
+      "id": "node/989065906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1051270966",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3179722,
+          50.7611462
+        ]
+      },
+      "id": "node/1051270966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1095057574",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2620231,
+          51.5952765
+        ]
+      },
+      "id": "node/1095057574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1104781893",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5464125,
+          51.5986691
+        ]
+      },
+      "id": "node/1104781893"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1112273247",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6687457,
+          52.9932073
+        ]
+      },
+      "id": "node/1112273247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1126245914",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.421138,
+          51.6959289
+        ]
+      },
+      "id": "node/1126245914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1129631840",
+        "leisure": "miniature_golf",
+        "name": "Spielgolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9643879,
+          51.2712409
+        ]
+      },
+      "id": "node/1129631840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1141070731",
+        "email": "contact@golfclub-bockum.de",
+        "leisure": "golf_course",
+        "name": "Golfclub Bockum e.V.",
+        "opening_hours": "Apr-Sep off",
+        "phone": "+49 2151 599757",
+        "website": "http://www.golfclub-bockum.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.612671,
+          51.3519302
+        ]
+      },
+      "id": "node/1141070731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1152859132",
+        "amenity": "biergarten",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.44193,
+          48.2076958
+        ]
+      },
+      "id": "node/1152859132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1156365274",
+        "leisure": "golf_course",
+        "opening_hours": "\"nach Vereinbarung\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3214472,
+          52.8485194
+        ]
+      },
+      "id": "node/1156365274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1171081054",
+        "leisure": "golf_course",
+        "name": "Golfanlage Stromberg Schindeldorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7722165,
+          49.9334447
+        ]
+      },
+      "id": "node/1171081054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1208797005",
+        "addr:city": "Wagenfeld",
+        "addr:country": "DE",
+        "addr:housenumber": "83",
+        "addr:postcode": "49419",
+        "addr:street": "Oppenweher Straße",
+        "amenity": "restaurant",
+        "contact:email": "info@golfpark-wagenfeld.de",
+        "contact:fax": "+49 5444 980822",
+        "contact:phone": "+49 5444 980822",
+        "contact:website": "http://www.golfpark-wagenfeld.de/",
+        "internet_access": "wlan",
+        "leisure": "golf_course",
+        "name": "Golfpark Top Golf Wagenfeld",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5652527,
+          52.5333147
+        ]
+      },
+      "id": "node/1208797005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1236359900",
+        "leisure": "miniature_golf",
+        "name": "Am Mainlandbad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8792473,
+          49.7866278
+        ]
+      },
+      "id": "node/1236359900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1239151940",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1822502,
+          50.4625039
+        ]
+      },
+      "id": "node/1239151940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1258787721",
+        "leisure": "golf_course",
+        "name": "Golfclub Obere Alp",
+        "website": "https://www.golf-oberealp.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3727291,
+          47.7661663
+        ]
+      },
+      "id": "node/1258787721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1267393988",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Scheerwald",
+        "opening_hours": "Mo-Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7205863,
+          50.0884867
+        ]
+      },
+      "id": "node/1267393988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1278092060",
+        "leisure": "miniature_golf",
+        "name": "Miniatur-Golf Straßenmühle",
+        "opening_hours": "Mo-Fr 14:00-19:00; Sa-Su 11:00-19:00",
+        "website": "https://www.minigolf-wiesbaden.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2108592,
+          50.0678159
+        ]
+      },
+      "id": "node/1278092060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1302488356",
+        "leisure": "miniature_golf",
+        "name": "Sterngolfanlage Heilenbecker Tal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3674484,
+          51.2643058
+        ]
+      },
+      "id": "node/1302488356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1325491083",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0696946,
+          54.0153187
+        ]
+      },
+      "id": "node/1325491083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1338003581",
+        "addr:city": "Bochum",
+        "addr:housenumber": "221 - 223",
+        "addr:postcode": "44809",
+        "addr:street": "Herner Straße",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlicht Semester Minigolf",
+        "website": "https://schwarzlicht-semester.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2113759,
+          51.4991474
+        ]
+      },
+      "id": "node/1338003581"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1363057498",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "Mingolf-Arena"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4016083,
+          49.2299729
+        ]
+      },
+      "id": "node/1363057498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1389196627",
+        "leisure": "miniature_golf",
+        "name": "Minigolf im Bäderpark"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.640488,
+          49.3123656
+        ]
+      },
+      "id": "node/1389196627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1398946400",
+        "leisure": "golf_course",
+        "name": "Spielgolfplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3520316,
+          51.7029583
+        ]
+      },
+      "id": "node/1398946400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1426869356",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3439347,
+          48.6593845
+        ]
+      },
+      "id": "node/1426869356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1443767277",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1829389,
+          50.7013143
+        ]
+      },
+      "id": "node/1443767277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1451369454",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6776347,
+          53.2435287
+        ]
+      },
+      "id": "node/1451369454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1474537456",
+        "leisure": "golf_course",
+        "name": "Minigolf Schönwald"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1991158,
+          48.0991617
+        ]
+      },
+      "id": "node/1474537456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1530282849",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4550672,
+          51.7522015
+        ]
+      },
+      "id": "node/1530282849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1544776959",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6548407,
+          50.5498089
+        ]
+      },
+      "id": "node/1544776959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1578298587",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Eibenstock",
+        "phone": "+493775261990"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5954904,
+          50.496614
+        ]
+      },
+      "id": "node/1578298587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596286256",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4919858,
+          49.8463948
+        ]
+      },
+      "id": "node/1596286256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1664313708",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7304739,
+          50.6921056
+        ]
+      },
+      "id": "node/1664313708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1703050745",
+        "leisure": "golf_course",
+        "name": "Gössel-Golf",
+        "opening_hours": "Fr 14:00-18:00; Sa,Su 10:00-18:00",
+        "sport": "golf",
+        "website": "http://landhaus-wittensiek.de/veranstaltungen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0345539,
+          52.0882676
+        ]
+      },
+      "id": "node/1703050745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715908273",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6811954,
+          50.0590035
+        ]
+      },
+      "id": "node/1715908273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1728425189",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Eichholz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7478612,
+          53.8478143
+        ]
+      },
+      "id": "node/1728425189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1740628232",
+        "leisure": "miniature_golf",
+        "name": "Strandgolfer",
+        "old_name": "Minigolf Schütz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.790397,
+          53.994857
+        ]
+      },
+      "id": "node/1740628232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1744336073",
+        "access": "private",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0497028,
+          49.4749831
+        ]
+      },
+      "id": "node/1744336073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1769000826",
+        "leisure": "miniature_golf",
+        "name:signed": "no",
+        "note": "FIXME opening_hours:end",
+        "opening_hours": "Mo-Su 10:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6328511,
+          51.0969262
+        ]
+      },
+      "id": "node/1769000826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1807205426",
+        "leisure": "miniature_golf",
+        "name": "18-Loch-Minigolfanlage",
+        "opening_hours": "Tu-Fr 13:00-18:00; Sa-Su 10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1238807,
+          50.4991643
+        ]
+      },
+      "id": "node/1807205426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1808789996",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3606404,
+          50.4496625
+        ]
+      },
+      "id": "node/1808789996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1811508341",
+        "leisure": "miniature_golf",
+        "name": "Miniaturgolf im Luitpoldpark",
+        "website": "http://www.minigolf-berchtesgaden.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9975583,
+          47.6284895
+        ]
+      },
+      "id": "node/1811508341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1826225935",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage Seebad Wendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4269472,
+          53.9123415
+        ]
+      },
+      "id": "node/1826225935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1854731243",
+        "disused": "yes",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0077843,
+          54.1758212
+        ]
+      },
+      "id": "node/1854731243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1889665809",
+        "description": "Minigolf am Colonius",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9301329,
+          50.946989
+        ]
+      },
+      "id": "node/1889665809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1929253575",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Teufelstisch Hinterweidenthal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7461102,
+          49.1950522
+        ]
+      },
+      "id": "node/1929253575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1955832491",
+        "leisure": "miniature_golf",
+        "name": "Roompot"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1331359,
+          52.3021113
+        ]
+      },
+      "id": "node/1955832491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1997670625",
+        "leisure": "miniature_golf",
+        "name": "Abenteuer Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4425605,
+          53.60408
+        ]
+      },
+      "id": "node/1997670625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2119040829",
+        "check_date:opening_hours": "2022-11-14",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Rutesheim",
+        "opening_hours": "Tu-Su 11:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9238647,
+          48.8127488
+        ]
+      },
+      "id": "node/2119040829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2160800112",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Kurpark Viechtach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8913729,
+          49.0772029
+        ]
+      },
+      "id": "node/2160800112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212570155",
+        "leisure": "golf_course",
+        "name": "Driving Range",
+        "sport": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4658075,
+          52.2131034
+        ]
+      },
+      "id": "node/2212570155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212571254",
+        "leisure": "golf_course",
+        "name": "18 Loch Südkurs",
+        "sport": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4675267,
+          52.2075846
+        ]
+      },
+      "id": "node/2212571254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212571255",
+        "leisure": "golf_course",
+        "name": "18 Loch Südkurs",
+        "sport": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4597408,
+          52.2081463
+        ]
+      },
+      "id": "node/2212571255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212571256",
+        "leisure": "golf_course",
+        "name": "9 Loch Nordkurs",
+        "sport": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4651529,
+          52.2097984
+        ]
+      },
+      "id": "node/2212571256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2212571257",
+        "leisure": "golf_course",
+        "name": "9 Loch Nordkurs",
+        "sport": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4702866,
+          52.2102934
+        ]
+      },
+      "id": "node/2212571257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2273469919",
+        "leisure": "miniature_golf",
+        "name": "Minigolf-Land Springe",
+        "website": "https://www.minigolf-springe.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5621207,
+          52.2009871
+        ]
+      },
+      "id": "node/2273469919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2276051569",
+        "addr:city": "Bodenkirchen",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:place": "Willaberg",
+        "addr:postcode": "84155",
+        "description": "Soccer Golf",
+        "email": "info@soccerparkbayern.de",
+        "leisure": "golf_course",
+        "name": "Soccerpark Bayern",
+        "phone": "+49 8745 9643 878",
+        "website": "http://www.soccerparkbayern.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4331122,
+          48.4061131
+        ]
+      },
+      "id": "node/2276051569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2278443895",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3869477,
+          50.213807
+        ]
+      },
+      "id": "node/2278443895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2287187930",
+        "leisure": "miniature_golf",
+        "source": "bing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6206126,
+          51.4508862
+        ]
+      },
+      "id": "node/2287187930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2293164478",
+        "addr:city": "Bremen",
+        "addr:housenumber": "7",
+        "addr:postcode": "28217",
+        "addr:street": "Cuxhavener Straße",
+        "amenity": "cafe",
+        "changing_table": "yes",
+        "changing_table:count": "1",
+        "cuisine": "bistro",
+        "description": "Indoor Minigolf mit Schwarzlicht, Bistro, mietbare Veranstaltungsräumlichkeiten",
+        "email": "info@schwarzlichthof.de",
+        "indoor_seating": "yes",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlichthof",
+        "opening_hours": "Mo-Th 14:00-22:00; Fr 14:00-24:00; Sa 10:00-24:00; Su,PH 10:00-22:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 421 42783200",
+        "smoking": "outside",
+        "website": "https://www.schwarzlichthof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7730235,
+          53.0964132
+        ]
+      },
+      "id": "node/2293164478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2306115970",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.383204,
+          50.4630569
+        ]
+      },
+      "id": "node/2306115970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2321258671",
+        "leisure": "golf_course",
+        "name": "Golfclub Insel Wangerooge e.V.",
+        "note": "Präsident z. Zt. Henning Neuhaus",
+        "website": "https://golf-wangerooge.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.912709,
+          53.7888138
+        ]
+      },
+      "id": "node/2321258671"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2322989972",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0455003,
+          48.1546277
+        ]
+      },
+      "id": "node/2322989972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2328423530",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Freibad Tirschenreuth",
+        "operator": "Freibad Tirschenreuth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3504747,
+          49.8836828
+        ]
+      },
+      "id": "node/2328423530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2337851316",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9180024,
+          53.1857537
+        ]
+      },
+      "id": "node/2337851316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2372905512",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9365458,
+          49.9780772
+        ]
+      },
+      "id": "node/2372905512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2402175381",
+        "leisure": "miniature_golf",
+        "loc_ref": "20",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5823067,
+          50.2847542
+        ]
+      },
+      "id": "node/2402175381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2408953102",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3862506,
+          49.3503059
+        ]
+      },
+      "id": "node/2408953102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2412783598",
+        "addr:city": "Borkum",
+        "addr:housenumber": "114",
+        "addr:postcode": "26757",
+        "addr:street": "Hindenburgstraße",
+        "leisure": "miniature_golf",
+        "name": "Pit Pat Hindernis Billard",
+        "note:de": "auf Tischen, wird mit Stöcken gespielt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6760396,
+          53.5938644
+        ]
+      },
+      "id": "node/2412783598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2424686311",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8855364,
+          49.0884351
+        ]
+      },
+      "id": "node/2424686311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2433552865",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Herscheid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7486486,
+          51.1753155
+        ]
+      },
+      "id": "node/2433552865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441443321",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.170368,
+          48.0617116
+        ]
+      },
+      "id": "node/2441443321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441970373",
+        "leisure": "golf_course",
+        "name": "Gut Berge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3539925,
+          51.346515
+        ]
+      },
+      "id": "node/2441970373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2480092275",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1077197,
+          51.8567098
+        ]
+      },
+      "id": "node/2480092275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2634937998",
+        "contact:website": "https://www.schwarzlichtzone.de/",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlichtzone",
+        "opening_hours": "Mo-Th 14:00-22:00; Fr 14:00-00:00; Sa 10:00-00:00; Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.433558,
+          52.4984197
+        ]
+      },
+      "id": "node/2634937998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684948070",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1440273,
+          49.3248468
+        ]
+      },
+      "id": "node/2684948070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2709912869",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Blauer See",
+        "website": "http://www.blauersee-ratingen.de/minigolf.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8572236,
+          51.3083906
+        ]
+      },
+      "id": "node/2709912869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2732031404",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4673272,
+          51.1912292
+        ]
+      },
+      "id": "node/2732031404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2794922933",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1227709,
+          49.9825979
+        ]
+      },
+      "id": "node/2794922933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2806950201",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3138494,
+          51.3667908
+        ]
+      },
+      "id": "node/2806950201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2859796648",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0127006,
+          48.4007019
+        ]
+      },
+      "id": "node/2859796648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2870134901",
+        "leisure": "miniature_golf",
+        "name:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0685738,
+          48.4135072
+        ]
+      },
+      "id": "node/2870134901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2895392547",
+        "access": "customers",
+        "leisure": "miniature_golf",
+        "name": "Minigolf",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5374228,
+          52.2134447
+        ]
+      },
+      "id": "node/2895392547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2908805012",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.7366949,
+          51.2740214
+        ]
+      },
+      "id": "node/2908805012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2981907204",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "15",
+        "addr:postcode": "68309",
+        "addr:street": "Waldeckweg",
+        "description": "3D-Schwarzlicht-Minigolf",
+        "leisure": "miniature_golf",
+        "level": "0",
+        "name": "World of Gleamgolf",
+        "phone": "+49 621 76445525",
+        "removed:amenity": "place_of_worship",
+        "removed:denomination": "baptist",
+        "removed:name": "Rhein River Baptist Church",
+        "removed:religion": "christian",
+        "website": "https://www.world-of-gleamgolf.de/mannheim-k%C3%A4fertal",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5419512,
+          49.5173778
+        ]
+      },
+      "id": "node/2981907204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2996990196",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0994295,
+          52.9850565
+        ]
+      },
+      "id": "node/2996990196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3040790933",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7229142,
+          50.7114718
+        ]
+      },
+      "id": "node/3040790933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3058803670",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5712373,
+          50.7728659
+        ]
+      },
+      "id": "node/3058803670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3071683082",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1809463,
+          51.0892715
+        ]
+      },
+      "id": "node/3071683082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3099884472",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8777623,
+          49.4521214
+        ]
+      },
+      "id": "node/3099884472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3125287402",
+        "leisure": "miniature_golf",
+        "name": "Indoor Golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7625465,
+          50.5462858
+        ]
+      },
+      "id": "node/3125287402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3133818397",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0697861,
+          47.8235878
+        ]
+      },
+      "id": "node/3133818397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3144567031",
+        "addr:city": "Peenemünde",
+        "addr:housenumber": "4",
+        "addr:postcode": "17449",
+        "addr:street": "Museumstraße",
+        "contact:phone": "+49 38371 553710",
+        "contact:website": "https://glowgolf.de/peenemuende/",
+        "leisure": "miniature_golf",
+        "name": "Glowgolf Schwarzlicht Minigolfanlage",
+        "opening_hours": "Mar 15-Oct 31: 10:00-18:00 || \"und in den Weihnachts- und Winterferien\"",
+        "operator": "Glowgolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7701041,
+          54.1361404
+        ]
+      },
+      "id": "node/3144567031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3177286013",
+        "leisure": "golf_course",
+        "name": "Golf Club Hösel",
+        "website": "https://www.golfclubhoesel.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9310178,
+          51.3316512
+        ]
+      },
+      "id": "node/3177286013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3422965113",
+        "leisure": "miniature_golf",
+        "name": "ACR Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0622337,
+          50.929155
+        ]
+      },
+      "id": "node/3422965113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3426422531",
+        "addr:city": "Schwarzach",
+        "addr:housenumber": "6",
+        "addr:postcode": "74869",
+        "addr:street": "Wildparkstraße",
+        "amenity": "biergarten",
+        "leisure": "miniature_golf",
+        "name": "Golfklause",
+        "wheelchair:description": "Existiert nicht mehr!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9862544,
+          49.3695862
+        ]
+      },
+      "id": "node/3426422531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3442360982",
+        "leisure": "golf_course",
+        "name": "Swin-Golf",
+        "opening_hours": "Tu-Fr 13:00-sunset; Sa-Su 10:00-sunset",
+        "opening_hours:covid19": "Tu-Su 00:00-24:00",
+        "operator": "Carsten Janßen",
+        "website": "http://janssen-hof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1830833,
+          53.2458635
+        ]
+      },
+      "id": "node/3442360982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3452284433",
+        "leisure": "golf_course",
+        "name": "Minigolfanlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0773864,
+          51.7418279
+        ]
+      },
+      "id": "node/3452284433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3634439340",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.388977,
+          49.7687118
+        ]
+      },
+      "id": "node/3634439340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3688104325",
+        "leisure": "miniature_golf",
+        "noname": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1129643,
+          53.447795
+        ]
+      },
+      "id": "node/3688104325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3692040529",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6309386,
+          49.5740478
+        ]
+      },
+      "id": "node/3692040529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3693958429",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0900912,
+          50.8346719
+        ]
+      },
+      "id": "node/3693958429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3698539651",
+        "addr:city": "Pudagla",
+        "addr:housenumber": "2",
+        "addr:postcode": "17429",
+        "addr:street": "Gewerbegebiet am Sandfeld",
+        "contact:mobile": "+49 171 424 62 55",
+        "contact:phone": "+49 38379 288 34 8",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "Indoor Minigolf Pudagla",
+        "website": "https://www.minigolfanlagen-usedom.de/indoorminigolf-pudagla/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.0469146,
+          53.9553523
+        ]
+      },
+      "id": "node/3698539651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3699778833",
+        "leisure": "miniature_golf",
+        "name": "Geli's Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4131243,
+          49.4893327
+        ]
+      },
+      "id": "node/3699778833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3710924150",
+        "leisure": "miniature_golf",
+        "name": "Center Parcs Minigolf (outdoor)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.079787,
+          49.5698861
+        ]
+      },
+      "id": "node/3710924150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3749251926",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "34",
+        "addr:postcode": "10829",
+        "addr:street": "Wilhelm-Kabus-Straße",
+        "addr:suburb": "Schöneberg",
+        "leisure": "golf_course",
+        "name": "Indoor Golf Club Berlin",
+        "website": "https://www.indoorgolfclub-berlin.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3648416,
+          52.4822086
+        ]
+      },
+      "id": "node/3749251926"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3750409503",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3494171,
+          51.168449
+        ]
+      },
+      "id": "node/3750409503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3760571556",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0377506,
+          48.2201557
+        ]
+      },
+      "id": "node/3760571556"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3763561980",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6474724,
+          49.1640799
+        ]
+      },
+      "id": "node/3763561980"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3765026775",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4115496,
+          48.0009213
+        ]
+      },
+      "id": "node/3765026775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3793801047",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3378229,
+          49.1546279
+        ]
+      },
+      "id": "node/3793801047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3831319818",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5262153,
+          48.2230463
+        ]
+      },
+      "id": "node/3831319818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3840700387",
+        "leisure": "miniature_golf",
+        "name": "Miniaturgolf \"an der Wiesenbaude\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3119362,
+          52.4303169
+        ]
+      },
+      "id": "node/3840700387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3926977601",
+        "leisure": "miniature_golf",
+        "opening_hours": "Mo-Fr 14:00-18:00, Sa-Su 11:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5092194,
+          47.949454
+        ]
+      },
+      "id": "node/3926977601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3990968694",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5737225,
+          50.9971661
+        ]
+      },
+      "id": "node/3990968694"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4039256118",
+        "leisure": "miniature_golf",
+        "name": "Waldcamping Minigolf",
+        "source": "bing aerial"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7177143,
+          54.1389729
+        ]
+      },
+      "id": "node/4039256118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4052817728",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4429872,
+          49.246304
+        ]
+      },
+      "id": "node/4052817728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4128501178",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1740856,
+          51.1497389
+        ]
+      },
+      "id": "node/4128501178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144779644",
+        "addr:housenumber": "81",
+        "addr:street": "Am Rohrbusch",
+        "contact:email": "muenster@schwarzlicht-semester.de",
+        "contact:phone": "+49 2534 6450308",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlicht Semester",
+        "opening_hours": "Tu-Th 14:00-22:00; Fr-Sa 12:00-0:00; Su 12:00-0:00",
+        "website": "https://schwarzlicht-semester.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5554757,
+          51.9498667
+        ]
+      },
+      "id": "node/4144779644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4200857123",
+        "leisure": "golf_course",
+        "opening_hours": "Apr-Oct"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2272897,
+          47.9266759
+        ]
+      },
+      "id": "node/4200857123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4209884091",
+        "leisure": "miniature_golf",
+        "name": "Abenteuergolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7986616,
+          49.0110072
+        ]
+      },
+      "id": "node/4209884091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4235912923",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0144912,
+          50.375371
+        ]
+      },
+      "id": "node/4235912923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4346069516",
+        "abandoned": "yes",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.25446,
+          49.048535
+        ]
+      },
+      "id": "node/4346069516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4352620397",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "90441",
+        "addr:street": "Nimrodstraße",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlichtfabrik",
+        "payment:cash": "yes",
+        "website": "https://www.schwarzlichtfabrik.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.068185,
+          49.4230283
+        ]
+      },
+      "id": "node/4352620397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4359052869",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8267287,
+          49.8055049
+        ]
+      },
+      "id": "node/4359052869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382471944",
+        "access": "customers",
+        "fee": "no",
+        "leisure": "miniature_golf",
+        "name": "HexenGolf",
+        "official_name": "Adventure HexenGolf",
+        "website": "http://www.hexengolf.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0236454,
+          51.7285285
+        ]
+      },
+      "id": "node/4382471944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393218989",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "68",
+        "addr:postcode": "76185",
+        "addr:street": "Daxlander Straße",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "Neon Minigolf",
+        "website": "http://neon-karlsruhe.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.346041,
+          49.0075919
+        ]
+      },
+      "id": "node/4393218989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4422861275",
+        "addr:city": "Fehmarn",
+        "addr:housenumber": "2",
+        "addr:postcode": "23769",
+        "addr:street": "Grasweg",
+        "addr:suburb": "Petersdorf",
+        "contact:phone": "+49 160 1617296",
+        "leisure": "miniature_golf",
+        "name": "Miniatur Düngolf",
+        "website": "https://inselschumi.de/minigolf.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0658167,
+          54.4778339
+        ]
+      },
+      "id": "node/4422861275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4453615958",
+        "leisure": "miniature_golf",
+        "noname": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5740826,
+          47.6814169
+        ]
+      },
+      "id": "node/4453615958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4585766010",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7753959,
+          47.7654033
+        ]
+      },
+      "id": "node/4585766010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4597287990",
+        "leisure": "miniature_golf",
+        "name:signed": "no",
+        "opening_hours": "\"im Sommer dauernd geöffnet, Schläger und Bälle müssen mitgebracht werden\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9555948,
+          54.3739408
+        ]
+      },
+      "id": "node/4597287990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4620966211",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlichthelden Minigolf",
+        "website": "https://www.schwarzlichthelden.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2772674,
+          49.9965815
+        ]
+      },
+      "id": "node/4620966211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4642566385",
+        "leisure": "miniature_golf",
+        "source": "local knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1730922,
+          49.4638909
+        ]
+      },
+      "id": "node/4642566385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4660177086",
+        "email": "info@clubhouse-nuernberg.de",
+        "leisure": "golf_course",
+        "name": "Clubhouse Nürnberg",
+        "note": "Indoor Golf Anlage",
+        "phone": "+49 911 99 99 66 33",
+        "website": "https://www.clubhouse-nuernberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0110098,
+          49.4471437
+        ]
+      },
+      "id": "node/4660177086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4685165098",
+        "leisure": "miniature_golf",
+        "name": "TV Trappenkamp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2262445,
+          54.038116
+        ]
+      },
+      "id": "node/4685165098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4685165099",
+        "leisure": "miniature_golf",
+        "name": "Betonanlage",
+        "operator": "TV Trappenkamp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2271532,
+          54.0371368
+        ]
+      },
+      "id": "node/4685165099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4707069402",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Tennispark Lahnstein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6386355,
+          50.2974835
+        ]
+      },
+      "id": "node/4707069402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4758454918",
+        "leisure": "miniature_golf",
+        "name": "Minigolfplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.736327,
+          47.5740108
+        ]
+      },
+      "id": "node/4758454918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837080309",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9951645,
+          51.1799893
+        ]
+      },
+      "id": "node/4837080309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4881883832",
+        "leisure": "miniature_golf",
+        "note": "inhall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8060517,
+          49.437389
+        ]
+      },
+      "id": "node/4881883832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4899073150",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5135548,
+          52.6663937
+        ]
+      },
+      "id": "node/4899073150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4899787033",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3636569,
+          51.0146714
+        ]
+      },
+      "id": "node/4899787033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4913098921",
+        "addr:city": "Bad Münder am Deister",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "31848",
+        "addr:street": "Osterberg",
+        "email": "gcamdeister@t-online.de",
+        "leisure": "golf_course",
+        "name": "Golf Park am Deister",
+        "name:de": "Golf Park am Deister",
+        "name:en": "Clubhouse GC am Deister",
+        "opening_hours": "Sa-Mo 09:30-16:00; Tu-Fr 09:30-18:00",
+        "operator": "S&D GmbH & Co. KG",
+        "phone": "+49 5042503276",
+        "website": "https://www.gp-ad.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4881542,
+          52.1903801
+        ]
+      },
+      "id": "node/4913098921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4931833428",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.749586,
+          51.3911019
+        ]
+      },
+      "id": "node/4931833428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947002946",
+        "contact:email": "gmuend@simigolf.de",
+        "contact:phone": "+49 7171 8090350",
+        "contact:website": "http://simigolf-gmuend.de",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "simigolf",
+        "opening_hours": "Mo off; Tu-Th 15:00-20:30; Jun-Sep: Fr 14:00-22:00; Jun-Sep: Sa 12:00-22:00; Oct-May: Fr 14:00-22:30; Oct-May: Sa 12:00-22:30; Su 12:00-20:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8396308,
+          48.7840708
+        ]
+      },
+      "id": "node/4947002946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4947192605",
+        "addr:city": "Aumühle",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "21521",
+        "addr:street": "Am Mühlenteich",
+        "email": "info@minigolfamsee.de",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Am See - Aumühle",
+        "website": "https://minigolfamsee.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.3127601,
+          53.5309467
+        ]
+      },
+      "id": "node/4947192605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4948960543",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4229444,
+          50.7966519
+        ]
+      },
+      "id": "node/4948960543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5024407391",
+        "leisure": "miniature_golf",
+        "website": "palmen-boote.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6559784,
+          50.1260504
+        ]
+      },
+      "id": "node/5024407391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5064398040",
+        "charge": "6.50 EUR/adult; 5.50 EUR/child",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Adventure-Minigolfanlage",
+        "opening_hours": "Su-Sa,PH 14:00-sunset; SH 11:00-sunset",
+        "operator": "Oliver Bergrath"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1542495,
+          50.8630744
+        ]
+      },
+      "id": "node/5064398040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5065037373",
+        "leisure": "miniature_golf",
+        "name": "Golfzentrum Granitz Binz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.616057,
+          54.3883891
+        ]
+      },
+      "id": "node/5065037373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5082970558",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5639744,
+          50.42405
+        ]
+      },
+      "id": "node/5082970558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5101443822",
+        "leisure": "miniature_golf",
+        "name": "Center Parcs Minigolf (Indoor)",
+        "opening_hours": "08:30-21:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0829482,
+          49.5700835
+        ]
+      },
+      "id": "node/5101443822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5128967514",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0083346,
+          50.0815916
+        ]
+      },
+      "id": "node/5128967514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5229977746",
+        "check_date": "2023-02-24",
+        "leisure": "miniature_golf",
+        "name": "Im Hofgarten",
+        "opening_hours": "Fr 14:00-18:30; Sa-Su 10:00-18:30; PH 10:00-18:30; SH We-Th 14:00-18:30",
+        "operator": "Stadt Aulendorf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6373623,
+          47.9555402
+        ]
+      },
+      "id": "node/5229977746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5254917679",
+        "access": "private",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6926921,
+          51.5226314
+        ]
+      },
+      "id": "node/5254917679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5296252651",
+        "addr:city": "Bad Bellingen",
+        "addr:country": "DE",
+        "addr:housenumber": "17",
+        "addr:postcode": "79415",
+        "addr:street": "Badstraße",
+        "leisure": "miniature_golf",
+        "name": "Mini-Golf / Boccia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5540689,
+          47.7291147
+        ]
+      },
+      "id": "node/5296252651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5313869916",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5903189,
+          48.5883305
+        ]
+      },
+      "id": "node/5313869916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5322907506",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlicht Minigolf",
+        "phone": "+49 451 32111",
+        "website": "http://www.minigolf-luebeck.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7115519,
+          53.8955972
+        ]
+      },
+      "id": "node/5322907506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5358695919",
+        "leisure": "golf_course",
+        "name": "Golfclub Steibis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0260189,
+          47.5225497
+        ]
+      },
+      "id": "node/5358695919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5364665892",
+        "addr:city": "Mainz",
+        "addr:country": "DE",
+        "addr:housenumber": "76a",
+        "addr:postcode": "55122",
+        "addr:street": "Mombacher Straße",
+        "leisure": "miniature_golf",
+        "level": "1",
+        "name": "GlowZone - 4D Schwarzlicht Minigolf",
+        "website": "https://www.glowzone.de/mainz/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2433216,
+          50.0135374
+        ]
+      },
+      "id": "node/5364665892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5376248032",
+        "addr:city": "Regensburg",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "93047",
+        "addr:street": "Obermünsterstraße",
+        "leisure": "miniature_golf",
+        "name": "Barrio Fino Indoor Minigolf",
+        "operator": "Guacamole GmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0967367,
+          49.0166292
+        ]
+      },
+      "id": "node/5376248032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5442870672",
+        "leisure": "golf_course",
+        "name": "Crossgolfplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5352998,
+          54.710985
+        ]
+      },
+      "id": "node/5442870672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5553909834",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage Hainstraße",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8975953,
+          49.8829595
+        ]
+      },
+      "id": "node/5553909834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5589308183",
+        "access": "customers",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.6480992,
+          51.1232287
+        ]
+      },
+      "id": "node/5589308183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5591993214",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2939174,
+          52.4893822
+        ]
+      },
+      "id": "node/5591993214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5700613641",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6240636,
+          51.5891645
+        ]
+      },
+      "id": "node/5700613641"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5712386300",
+        "addr:city": "Heidesee",
+        "addr:housenumber": "1",
+        "addr:postcode": "15754",
+        "addr:street": "Weg zum Hölzernen See",
+        "description": "9-Loch Bahn, einfach gehalten. Kostenfrei bespielbar.",
+        "leisure": "miniature_golf",
+        "opening_hours": "24/7",
+        "operator": "KiEZ Hölzerner See"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7100546,
+          52.2007971
+        ]
+      },
+      "id": "node/5712386300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766191467",
+        "access": "customers",
+        "fee": "yes",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5745319,
+          51.1860506
+        ]
+      },
+      "id": "node/5766191467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5771829485",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1024491,
+          52.5111299
+        ]
+      },
+      "id": "node/5771829485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5822311543",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2563778,
+          47.9195741
+        ]
+      },
+      "id": "node/5822311543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5838537045",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2582843,
+          52.9244032
+        ]
+      },
+      "id": "node/5838537045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5854563219",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.611461,
+          48.9599867
+        ]
+      },
+      "id": "node/5854563219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5863161653",
+        "description": "3D Schwarzlicht Minigolf",
+        "leisure": "miniature_golf",
+        "name": "Neon",
+        "opening_hours": "We,Th 15:00-21:00; Fr 14:00-22:00; Sa 12:00-22:00; Su 12:00-20:00",
+        "website": "https://www.neon-kaiserslautern.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7130273,
+          49.4402014
+        ]
+      },
+      "id": "node/5863161653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5895971433",
+        "addr:city": "Würzburg",
+        "addr:housenumber": "2a",
+        "addr:postcode": "97070",
+        "addr:street": "Bahnhofsplatz",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlichtfabrik Würzburg",
+        "opening_hours": "Tu-Th 14:00-20:00; Fr 14:00-23:00; Sa 11:00-23:00; Su 11:00-20:00; PH 11:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9320439,
+          49.801754
+        ]
+      },
+      "id": "node/5895971433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5966297101",
+        "fee": "3",
+        "leisure": "miniature_golf",
+        "name": "Africambo Golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6414107,
+          52.1690584
+        ]
+      },
+      "id": "node/5966297101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5983323583",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6719073,
+          53.7620305
+        ]
+      },
+      "id": "node/5983323583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6035136459",
+        "addr:city": "Greifswald",
+        "addr:housenumber": "19a;19c",
+        "addr:postcode": "17489",
+        "addr:street": "Am Gorzberg",
+        "contact:email": "info@paintballbunker-greifswald.de",
+        "contact:mobile": "+49 174 977 53 18",
+        "contact:website": "http://www.minigolf-greifswald.de/",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Greifswald",
+        "phone": "+49 174 9775318",
+        "website": "https://paintballbunker-greifswald.de/minigolf/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3905705,
+          54.0774644
+        ]
+      },
+      "id": "node/6035136459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6073474203",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Kurpark Krün",
+        "opening_hours": "Mo-Tu off; We-Su 10:00+",
+        "operator": "Florian Schmid",
+        "source": "https://www.merkur.de/lokales/garmisch-partenkirchen/kruen-ort370475/minigolf-anlage-in-kruen-begeistert-buergermeister-schwarzenberger-10070701.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.2812779,
+          47.5081838
+        ]
+      },
+      "id": "node/6073474203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6077799729",
+        "addr:city": "Göttingen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "37079",
+        "addr:street": "Willi-Eichler-Straße",
+        "addr:suburb": "Grone",
+        "contact:phone": "+49 551 50077900",
+        "contact:website": "https://www.neongolf.de/schwarzlicht-minigolf-goettingen/",
+        "golf:course": "18_hole",
+        "leisure": "miniature_golf",
+        "name": "Neon-Golf",
+        "opening_hours": "Mo-Th 15:00-21:00; Fr 15:00-23:00; PH,Sa,Su 10:00-23:00",
+        "operator": "LaserSports Center GmbH",
+        "start_date": "2018-12-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8856715,
+          51.548184
+        ]
+      },
+      "id": "node/6077799729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6139913592",
+        "contact:email": "info@blacklightarena.de",
+        "contact:fax": "+49 7307 2594313",
+        "contact:phone": "+49 176 62029444",
+        "contact:website": "https://blacklightarena.de/",
+        "leisure": "miniature_golf",
+        "level": "1",
+        "name": "Blacklight Arena",
+        "opening_hours": "Tu-Th 15:00-21:00; Fr 14:00-22:00; Sa 13:00-23:00; Su 13:00-20:00; Mo,PH off || \"letzter Einlass 1,5h vor Schließung\"",
+        "operator": "SAMA Event GmbH",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0354997,
+          48.3304419
+        ]
+      },
+      "id": "node/6139913592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6142909817",
+        "addr:city": "Pottenstein",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:place": "Weidenloh",
+        "addr:postcode": "91278",
+        "description": "18 hole Par 72 + 9 hole academy",
+        "email": "info@gc-pottenstein.de",
+        "leisure": "golf_course",
+        "name": "Golfplatz Pottenstein",
+        "phone": "+49 92 43 92 92 20",
+        "sport": "golf",
+        "website": "http://www.gc-pottenstein.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4060938,
+          49.7524935
+        ]
+      },
+      "id": "node/6142909817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6142909819",
+        "addr:city": "Velden",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:place": "Gerhelm",
+        "addr:postcode": "91235",
+        "description": "18 hole Par 71",
+        "email": "info@gerhelm.de",
+        "leisure": "golf_course",
+        "name": "Golfclub Gerhelm, Nürnberger Land e.V.",
+        "phone": "+49 9152 - 398",
+        "website": "https://www.gerhelm.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4570934,
+          49.6166067
+        ]
+      },
+      "id": "node/6142909819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6150428834",
+        "addr:city": "Abenberg",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "91183",
+        "addr:street": "Am Golfplatz",
+        "description": "3 x 9 hole Par 36 + 6 hole academy Par 19",
+        "email": "info@golfclub-abenberg.de",
+        "leisure": "golf_course",
+        "name": "Golfclub Abenberg",
+        "phone": "+49 91 78 98 96 0",
+        "sport": "golf",
+        "website": "https://www.golfclubabenberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9658269,
+          49.2526173
+        ]
+      },
+      "id": "node/6150428834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6181882697",
+        "addr:city": "Neumarkt in der Oberpfalz",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "92318",
+        "addr:street": "Am Herrnhof",
+        "email": "club@golfclub-herrnhof.de",
+        "leisure": "golf_course",
+        "name": "Golfclub Herrnhof e.V.",
+        "operator": "Golfclub Herrnhof e.V.",
+        "phone": "+49 9188 3979",
+        "sport": "golf",
+        "website": "https://golfclub-herrnhof.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3947266,
+          49.3018396
+        ]
+      },
+      "id": "node/6181882697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6207394057",
+        "leisure": "golf_course",
+        "name": "Golfclub Schloss Lütetsburg",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Golfanlage Schloss Lütetsburg GmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2585786,
+          53.5993877
+        ]
+      },
+      "id": "node/6207394057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6234351740",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7027043,
+          50.3340367
+        ]
+      },
+      "id": "node/6234351740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6299383354",
+        "leisure": "miniature_golf",
+        "name": "Minigolfarena",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7931244,
+          51.4039678
+        ]
+      },
+      "id": "node/6299383354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6338408199",
+        "leisure": "miniature_golf",
+        "name": "Minigolf-Anlage Wunsiedel",
+        "phone": "+49 9232 7868"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.0030516,
+          50.0343646
+        ]
+      },
+      "id": "node/6338408199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6378038132",
+        "airconditioned": "yes",
+        "check_date:opening_hours": "2023-04-29",
+        "contact:email": "info@schwarzlichthelden.de",
+        "contact:fax": "+49 69 76068711",
+        "contact:phone": "+49 69 76068710",
+        "contact:website": "https://www.schwarzlichthelden.de",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlichthelden",
+        "opening_hours": "Mo-Th 12:00-22:00; Fr 12:00-24:00; Sa 10:00-24:00; Su 10:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7028956,
+          50.1235386
+        ]
+      },
+      "id": "node/6378038132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6422720596",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0775403,
+          48.3979103
+        ]
+      },
+      "id": "node/6422720596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6430607691",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2624144,
+          49.5794572
+        ]
+      },
+      "id": "node/6430607691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6494790961",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "3D Schwarzlicht Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.455157,
+          51.7519074
+        ]
+      },
+      "id": "node/6494790961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6495604031",
+        "leisure": "miniature_golf",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9532031,
+          50.6530209
+        ]
+      },
+      "id": "node/6495604031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6525097115",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7359708,
+          51.3384073
+        ]
+      },
+      "id": "node/6525097115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6535007105",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4360415,
+          50.3548886
+        ]
+      },
+      "id": "node/6535007105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6615189378",
+        "addr:city": "Neutraubling",
+        "addr:country": "DE",
+        "addr:housenumber": "7/9",
+        "addr:postcode": "93073",
+        "addr:street": "Pommernstraße",
+        "leisure": "miniature_golf",
+        "name": "3D Funhouse",
+        "website": "https://3d-funhouse.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1947893,
+          48.9817626
+        ]
+      },
+      "id": "node/6615189378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6630619049",
+        "leisure": "miniature_golf",
+        "name": "Minigolf pit pat",
+        "opening_hours": "10:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.7490076,
+          47.9432224
+        ]
+      },
+      "id": "node/6630619049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6638634767",
+        "leisure": "miniature_golf",
+        "name": "Freibad Obertal-Buchlbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2779735,
+          48.5279092
+        ]
+      },
+      "id": "node/6638634767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6746772238",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5034611,
+          51.0361571
+        ]
+      },
+      "id": "node/6746772238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6761425766",
+        "addr:housenumber": "4",
+        "addr:street": "Promenade",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage mit Imbiss",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "phone": "+49 16392 497 54",
+        "website": "www.minigolf-insel-poel.metro.biz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4247918,
+          54.0135811
+        ]
+      },
+      "id": "node/6761425766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6763866836",
+        "leisure": "miniature_golf",
+        "name": "Leeraner Miniaturland",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4294749,
+          53.2324229
+        ]
+      },
+      "id": "node/6763866836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6863863689",
+        "contact:website": "https://www.world-of-gleamgolf.de/mannheim/gleamgolf-mannheim-neckarstadt-spielen",
+        "leisure": "miniature_golf",
+        "name": "World of Gleamgolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4699808,
+          49.5132808
+        ]
+      },
+      "id": "node/6863863689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6892949219",
+        "alt_name": "Minigolhalle Halver",
+        "contact:website": "https://minigolfhalle-halver.jimdo.com/",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "Indoor Minigolf Halver",
+        "operator": "Pingvin Minigoldworld"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.497772,
+          51.1862952
+        ]
+      },
+      "id": "node/6892949219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6895695988",
+        "leisure": "miniature_golf",
+        "name": "Spiel und Freizeit",
+        "opening_hours": "Mo-Fr 11:00-18:30; Sa,Su 10:30-18:30",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4764121,
+          51.6313841
+        ]
+      },
+      "id": "node/6895695988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044506830",
+        "leisure": "miniature_golf",
+        "opening_hours": "Mo-Su 08:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.9794841,
+          51.120381
+        ]
+      },
+      "id": "node/7044506830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7170489270",
+        "leisure": "golf_course",
+        "name": "Öffentlicher Kurzplatz",
+        "opening_hours": "24/7",
+        "operator": "Golf-Club Peine-Edemissen e.V."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2683778,
+          52.3924275
+        ]
+      },
+      "id": "node/7170489270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7233549277",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.511166,
+          51.4275606
+        ]
+      },
+      "id": "node/7233549277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7255021185",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlicht Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9155359,
+          53.5998504
+        ]
+      },
+      "id": "node/7255021185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7272088301",
+        "leisure": "miniature_golf",
+        "operator": "Heimatverein"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8799467,
+          52.3671911
+        ]
+      },
+      "id": "node/7272088301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7369000075",
+        "addr:city": "Lingen (Ems)",
+        "addr:housenumber": "57",
+        "addr:postcode": "49808",
+        "addr:street": "Meppener Straße",
+        "leisure": "miniature_golf",
+        "name": "Drei D Golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3112592,
+          52.5305005
+        ]
+      },
+      "id": "node/7369000075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7380928462",
+        "addr:city": "Ettlingen",
+        "addr:housenumber": "55",
+        "addr:postcode": "76275",
+        "addr:street": "Einsteinstraße",
+        "alt_name": "Simigolf",
+        "email": "info@funnygolf-ettlingen.de",
+        "leisure": "miniature_golf",
+        "name": "Funnygolf",
+        "note": "3D Schwarzlicht Indoor Minigolf",
+        "opening_hours": "We-Th 15:00-22:00; Fr 14:00-22:00; Sa 12:00-24:00; Su 12:00-20:00",
+        "operator": "simigo plus GmbH",
+        "phone": "+49 7243 9398510",
+        "ref:vatin": "DE301349233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3691877,
+          48.9427375
+        ]
+      },
+      "id": "node/7380928462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7387387976",
+        "leisure": "golf_course"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5070819,
+          51.1078548
+        ]
+      },
+      "id": "node/7387387976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7403437127",
+        "addr:city": "Moers",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "47441",
+        "addr:street": "Krefelder Straße",
+        "leisure": "miniature_golf",
+        "name": "Mini-Golf Anlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6204131,
+          51.4510914
+        ]
+      },
+      "id": "node/7403437127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7452496409",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1899574,
+          50.058494
+        ]
+      },
+      "id": "node/7452496409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7545559285",
+        "leisure": "golf_course",
+        "name": "Golfpark Rennesfeld",
+        "sport": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4872218,
+          51.2901336
+        ]
+      },
+      "id": "node/7545559285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7611722397",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7605519,
+          47.9223693
+        ]
+      },
+      "id": "node/7611722397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7616329923",
+        "addr:city": "Obernkirchen",
+        "addr:housenumber": "2",
+        "addr:postcode": "31683",
+        "addr:street": "Röserheide",
+        "email": "info@golfclub-schaumburg.de",
+        "fax": "+49 5724 902910",
+        "leisure": "golf_course",
+        "name": "Golfclub Schaumburg E.V.",
+        "phone": "+49 5724 4670",
+        "website": "https://golfclub-schaumburg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1455343,
+          52.2773365
+        ]
+      },
+      "id": "node/7616329923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7626724963",
+        "addr:city": "Niederzier",
+        "addr:housenumber": "38",
+        "addr:postcode": "52382",
+        "addr:street": "Rurbenden",
+        "addr:suburb": "Huchem-Stammeln",
+        "description": "Indoor-Schwarzlicht-Minigolf",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "Magic Minigolf 3D",
+        "opening_hours": "Mo-Th 17:00-22:00; Fr 17:00-23:00; Sa 10:00-23:00; Su,PH 10:00-22:00",
+        "website": "https://www.bowlnlounge.de/magic-minigolf-3d.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4534727,
+          50.8430917
+        ]
+      },
+      "id": "node/7626724963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7795335685",
+        "addr:housenumber": "5",
+        "addr:postcode": "87538",
+        "addr:street": "Flurstraße",
+        "leisure": "miniature_golf",
+        "name": "Minigolf",
+        "name:de": "Alpenminigolf Bolsterlang",
+        "name:en": "Alpenminigolf Bolsterlang",
+        "opening_hours": "Mo-Su 13:00-20:00",
+        "phone": "+49 8326 9300",
+        "tourism": "attraction",
+        "website": "https://www.hoernerdoerfer.de/a-alpenminigolf-bolsterlang-allgaeu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2371755,
+          47.4625323
+        ]
+      },
+      "id": "node/7795335685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7800856486",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1603942,
+          48.7612681
+        ]
+      },
+      "id": "node/7800856486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7837780533",
+        "leisure": "miniature_golf",
+        "name": "Pit-Pat-Anlage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3416215,
+          52.3247216
+        ]
+      },
+      "id": "node/7837780533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7865991873",
+        "leisure": "miniature_golf",
+        "opening_hours": "Jul-Sep: Sa,Su 10:00-12:30; Jul-Sep: Mo-Fr 10:00-16:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3028643,
+          50.5072161
+        ]
+      },
+      "id": "node/7865991873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7922814467",
+        "addr:city": "Straßlach-Dingharting",
+        "addr:housenumber": "95",
+        "addr:postcode": "82064",
+        "addr:street": "Tölzer Straße",
+        "email": "strasslach@mgc-golf.de",
+        "leisure": "golf_course",
+        "name": "Münchener Golf Club e.V.",
+        "phone": "+49 8170 9291811",
+        "website": "https://mgc-golf.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5053878,
+          47.9861585
+        ]
+      },
+      "id": "node/7922814467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7946206683",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0564485,
+          50.1577916
+        ]
+      },
+      "id": "node/7946206683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7991651040",
+        "addr:city": "Lahr/Schwarzwald",
+        "addr:housenumber": "6",
+        "addr:postcode": "77933",
+        "addr:street": "Industriestraße",
+        "email": "info@black-light-planet.de",
+        "leisure": "miniature_golf",
+        "name": "Black Light Planet - 3D Minigolf",
+        "opening_hours": "We-Th 15:00-21:00; Fr-Sa 14:00-22:00; Su 12:00-21:00",
+        "opening_hours:covid19": "open",
+        "phone": "+49 7821 9816561",
+        "website": "https://www.black-light-planet.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8251347,
+          48.3303543
+        ]
+      },
+      "id": "node/7991651040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8002252989",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0659259,
+          53.3241641
+        ]
+      },
+      "id": "node/8002252989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8101925168",
+        "addr:city": "Kalkar",
+        "addr:housenumber": "29",
+        "addr:postcode": "47546",
+        "addr:street": "Greilack",
+        "addr:suburb": "Niedermörmter",
+        "leisure": "golf_course",
+        "name": "Mühlenhof Golf & Country Club e.V.",
+        "sport": "golf",
+        "website": "https://muehlenhof.net"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3658513,
+          51.7439538
+        ]
+      },
+      "id": "node/8101925168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8200931048",
+        "leisure": "miniature_golf",
+        "operator": "Campingplatz Ecktannen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6646549,
+          53.4994777
+        ]
+      },
+      "id": "node/8200931048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8232653128",
+        "addr:city": "Amorbach",
+        "addr:postcode": "63916",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Amorbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2171476,
+          49.6413988
+        ]
+      },
+      "id": "node/8232653128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8262260917",
+        "leisure": "miniature_golf",
+        "name:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6534652,
+          52.8041919
+        ]
+      },
+      "id": "node/8262260917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8473570251",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8639785,
+          50.6748336
+        ]
+      },
+      "id": "node/8473570251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8476289748",
+        "leisure": "golf_course",
+        "name": "Golfclub Schloss Haag e.V.",
+        "sport": "golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3233735,
+          51.5332077
+        ]
+      },
+      "id": "node/8476289748"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8486670876",
+        "addr:city": "Stuer",
+        "addr:housenumber": "20",
+        "addr:postcode": "17209",
+        "addr:street": "Seeufer",
+        "addr:suburb": "Bad Stuer",
+        "charge": "3",
+        "contact:email": "badstuer@dercampingplatz.de",
+        "contact:phone": "+49 39924 791370",
+        "contact:website": "https://www.minigolf-badstuer.de/",
+        "currency:EUR": "only",
+        "description": "18-Loch-Anlage",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Minigolf Campingplatz Bad Stuer",
+        "opening_hours:url": "https://www.minigolf-badstuer.de/",
+        "operator": "Seaside Travel Camping KG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.309817,
+          53.389135
+        ]
+      },
+      "id": "node/8486670876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8781140470",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4048032,
+          49.4119513
+        ]
+      },
+      "id": "node/8781140470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8806578032",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9921474,
+          52.4145057
+        ]
+      },
+      "id": "node/8806578032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8951346221",
+        "addr:housenumber": "105",
+        "addr:street": "Gauerter Hauptdeich",
+        "description": "Swingolf und Fussballgolf",
+        "leisure": "golf_course",
+        "name": "Swingolf-Hamburg",
+        "opening_hours": "We-Su 11:00-20:00",
+        "phone": "+49 (0)40 737 481 22",
+        "website": "https://www.swingolf-hamburg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0748272,
+          53.4585304
+        ]
+      },
+      "id": "node/8951346221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9008368734",
+        "addr:city": "Schneverdingen",
+        "addr:housenumber": "38",
+        "addr:postcode": "29640",
+        "addr:street": "Verdener Straße",
+        "contact:email": "info@schnucken-golf.de",
+        "contact:phone": "+49 5193 8054154",
+        "contact:website": "https://adventuregolf-schneverdingen.de",
+        "leisure": "miniature_golf",
+        "name": "Schnucken-Golf",
+        "opening_hours": "Mo-Su 10:00-18:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7861788,
+          53.1124399
+        ]
+      },
+      "id": "node/9008368734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9024888545",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5597451,
+          53.0036004
+        ]
+      },
+      "id": "node/9024888545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9056679390",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.322457,
+          52.4276784
+        ]
+      },
+      "id": "node/9056679390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9111335849",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "GlowGolf",
+        "source:website": "https://hotels-im-harz.de/produkt/glowgolf-harz/",
+        "website": "https://glowgolfharz.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2927045,
+          51.8327873
+        ]
+      },
+      "id": "node/9111335849"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9157893058",
+        "addr:city": "Täferrot",
+        "addr:housenumber": "2",
+        "addr:postcode": "73527",
+        "addr:street": "Rehnenmühlestraße",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8129866,
+          48.8604316
+        ]
+      },
+      "id": "node/9157893058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9252276038",
+        "access": "private",
+        "leisure": "miniature_golf",
+        "source": "Bing aerial view"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.35595,
+          54.975599
+        ]
+      },
+      "id": "node/9252276038"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9267520387",
+        "addr:city": "Leipzig",
+        "addr:housenumber": "19",
+        "addr:postcode": "04109",
+        "addr:street": "Große Fleischergasse",
+        "contact:facebook": "http://www.facebook.com/lilalichtleipzig/",
+        "contact:instagram": "https://instagram.com/lilalicht_leipzig",
+        "email": "info@lilalicht-leipzig.de",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "mapillary": "355152843186340",
+        "name": "Lilalicht 3D-Adventure Minigolf",
+        "opening_hours": "Tu-Th 14:00-21:00; Fr 14:00-22:00; Sa 11:00-22:00; Su 11:00-21:00; SH 11:00-21:00; SH Fr,Sa 11:00-22:00",
+        "operator": "Heiko van Vliet",
+        "phone": "+49 341 24915333",
+        "website": "https://www.lilalicht-leipzig.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.372611,
+          51.3417985
+        ]
+      },
+      "id": "node/9267520387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9267565481",
+        "addr:city": "Schkeuditz",
+        "addr:housenumber": "67",
+        "addr:postcode": "04435",
+        "addr:street": "Döbichauer Straße",
+        "contact:facebook": "https://www.facebook.com/farbrausch3D/",
+        "contact:instagram": "https://www.instagram.com/farbrausch_minigolf/",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Farbrausch 3D Schwarzlicht Minigolf",
+        "operator": "Madison Gastronomie GmbH",
+        "website": "https://www.farbrausch-3d.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1948728,
+          51.3505183
+        ]
+      },
+      "id": "node/9267565481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9268757301",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "level": "0",
+        "name": "Adventure-Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8923155,
+          50.7957457
+        ]
+      },
+      "id": "node/9268757301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9282689343",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0338301,
+          54.6733734
+        ]
+      },
+      "id": "node/9282689343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9350359739",
+        "addr:city": "Oldenburg",
+        "addr:housenumber": "246",
+        "addr:postcode": "26129",
+        "addr:street": "Ammerländer Heerstraße",
+        "branch": "Oldenburg",
+        "email": "info@schwarzlichtgolf-oldenburg.de",
+        "facebook": "https://www.facebook.com/oldenburg.schwarzlicht.golf/",
+        "fee": "yes",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "name": "Schwarzlicht Golf 3D",
+        "opening_hours": "Mo,Tu off; We-Th 15:00-21:00; Fr 15:00-22:00; Sa 12:00-22:00; Su 13:00-20:00",
+        "opening_hours:url": "https://schwarzlichtgolf-oldenburg.de/04_03.php",
+        "operator": "Weitsicht Media GmbH",
+        "phone": "+49 441 77798011",
+        "website": "https://schwarzlichtgolf-oldenburg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.1725948,
+          53.1547792
+        ]
+      },
+      "id": "node/9350359739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9454982043",
+        "leisure": "golf_course",
+        "name": "Minigolfplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9073211,
+          48.3190345
+        ]
+      },
+      "id": "node/9454982043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9688782392",
+        "addr:city": "Grünenbach",
+        "addr:housenumber": "9a",
+        "addr:postcode": "88167",
+        "addr:street": "Riederweg",
+        "email": "info@minigolf-laubenberg.de",
+        "leisure": "miniature_golf",
+        "name": "Minigolf am Laubenberg",
+        "opening_hours": "Mo-Fr 14:00-22:00; Sa,Su 11:00-22:00",
+        "phone": "+49-8383-7622",
+        "website": "https://www.minigolf-laubenberg.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0143063,
+          47.6294971
+        ]
+      },
+      "id": "node/9688782392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9742713878",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4267389,
+          51.6366218
+        ]
+      },
+      "id": "node/9742713878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9755680136",
+        "check_date:opening_hours": "2023-03-29",
+        "leisure": "miniature_golf",
+        "name": "Glowing Rooms",
+        "opening_hours:signed": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4741408,
+          51.513088
+        ]
+      },
+      "id": "node/9755680136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9781242274",
+        "charge": "2,50 €",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "opening_hours": "Jun-Sep: Mo-Sa 14:00-20:00; Su 11:00 - 20:00; PH 11:00 - 20:00",
+        "website": "https://www.melsunger-land.de/media/attraktionen/minigolfanlage#"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.5536992,
+          51.1224742
+        ]
+      },
+      "id": "node/9781242274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810977966",
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "83",
+        "addr:postcode": "40625",
+        "addr:street": "Diepenstraße",
+        "description": "Schwarzlicht 4D Golf",
+        "email": "duesseldorf@glowzone.de",
+        "entrance": "yes",
+        "leisure": "miniature_golf",
+        "name": "Glowzone",
+        "opening_hours": "Mo-Th 15:00-22:00; Fr 15:00-24:00; Sa 10:00-24:00; Su 10:00-22:00",
+        "phone": "+49 211–24794377",
+        "website": "https://glowzone.de/glowzone-duesseldorf/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8428953,
+          51.2332969
+        ]
+      },
+      "id": "node/9810977966"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9811009793",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8522203,
+          52.5924681
+        ]
+      },
+      "id": "node/9811009793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9881189951",
+        "leisure": "miniature_golf",
+        "name": "Tortuga Adventure Golf",
+        "opening_hours": "Mo-Su 11:00-20:00",
+        "phone": "+49 1573 6215857",
+        "website": "https://tortuga-adventure-golf.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2376622,
+          51.3245944
+        ]
+      },
+      "id": "node/9881189951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9906227354",
+        "fee": "yes",
+        "leisure": "miniature_golf",
+        "name": "Dream-Bowl Palace",
+        "opening_hours": "Tu-Th 15:00-22:00; Fr,Sa 14:00-24:00; Su 12:00-22:00",
+        "website": "https://www.dreambowl.de/dream-bowl-palace-muenchen-unterfoehring/dream-bowl-palace-muenchen-unterfoehring/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6381999,
+          48.1749364
+        ]
+      },
+      "id": "node/9906227354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9997586073",
+        "access": "customers",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1776666,
+          50.8725026
+        ]
+      },
+      "id": "node/9997586073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10042366558",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3865449,
+          51.5849549
+        ]
+      },
+      "id": "node/10042366558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10050915089",
+        "leisure": "miniature_golf",
+        "name": "3D Minigolf",
+        "opening_hours": "Tu-Th 14:00-22:30; Fr 10:00-23:00; Sa 10:00-23:00; PH,Su 10:00-20:30; Mo off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.213703,
+          48.4919509
+        ]
+      },
+      "id": "node/10050915089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10079877747",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7113988,
+          50.1528013
+        ]
+      },
+      "id": "node/10079877747"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10081615127",
+        "leisure": "miniature_golf",
+        "name": "Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7825796,
+          51.8447731
+        ]
+      },
+      "id": "node/10081615127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10130982706",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.973582,
+          49.1124274
+        ]
+      },
+      "id": "node/10130982706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10132875783",
+        "check_date": "2022-10-27",
+        "leisure": "miniature_golf",
+        "name:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3696668,
+          52.5308102
+        ]
+      },
+      "id": "node/10132875783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10217976308",
+        "addr:city": "Niederstetten",
+        "addr:housenumber": "22",
+        "addr:postcode": "97996",
+        "addr:street": "Kanalweg",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage Niederstetten",
+        "operator": "TVN Abt. Minigolf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9222543,
+          49.3934635
+        ]
+      },
+      "id": "node/10217976308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10221218666",
+        "leisure": "golf_course",
+        "name": "Golf-Club Unna-Fröndenberg e.V.",
+        "opening_hours": "Tu-Su 10:00-15:00",
+        "phone": "+49 237370068",
+        "website": "http://www.gcuf.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7632701,
+          51.4873276
+        ]
+      },
+      "id": "node/10221218666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10237530032",
+        "contact:email": "neu-ulm@blacklightarena.de",
+        "contact:phone": "+49 731 49256236",
+        "leisure": "miniature_golf",
+        "name": "Blacklight Arena",
+        "opening_hours": "Mo,Tu off; We,Th 16:00-22:00; Fr 15:00-22:00; Sa 12:00-22:00; Su,PH 12:00-20:00",
+        "operator": "SAMA Event GmbH",
+        "sport": "miniature_golf",
+        "website": "https://neu-ulm.blacklightarena.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0105187,
+          48.3945011
+        ]
+      },
+      "id": "node/10237530032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10239160679",
+        "addr:city": "Neubrandenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:postcode": "17033",
+        "addr:street": "Nonnenhofer Straße",
+        "alt_name": "Schwarzlicht Minigolf",
+        "contact:email": "nb@baltic-adventures.de",
+        "contact:phone": "+49 800 1703300",
+        "contact:website": "https://www.baltic-adventures.de/neon-minigolf/",
+        "fee": "yes",
+        "indoor": "yes",
+        "leisure": "miniature_golf",
+        "lit": "yes",
+        "name": "Neon Minigolf",
+        "opening_hours:url": "https://www.baltic-adventures.de/neon-minigolf/",
+        "operator": "Baltic Swish GmbH",
+        "sport": "miniature_golf",
+        "start_date": "2022-12-05"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.2592007,
+          53.5394944
+        ]
+      },
+      "id": "node/10239160679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10308986832",
+        "leisure": "golf_course",
+        "name": "Indoorgolf Matt",
+        "website": "https://www.indoorgolf-vinothek.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0118128,
+          47.5555128
+        ]
+      },
+      "id": "node/10308986832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10572464615",
+        "leisure": "miniature_golf",
+        "name": "Minigolfanlage Ölschnitzsee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3421661,
+          50.4457524
+        ]
+      },
+      "id": "node/10572464615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10582498878",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6038278,
+          50.3663245
+        ]
+      },
+      "id": "node/10582498878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10624523266",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3717096,
+          51.569262
+        ]
+      },
+      "id": "node/10624523266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10713168291",
+        "addr:city": "Dülmen",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "48249",
+        "addr:street": "Nordlandwehr",
+        "leisure": "miniature_golf",
+        "level": "0",
+        "name": "Hole in One",
+        "opening_hours": "We-Th 15:00-22:00, Fr 15:00-03:00, Sa 12:00-03:00, Su 12:00-22:00",
+        "phone": "+49 2594 8409040",
+        "website": "https://joyn-us.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2881709,
+          51.8415724
+        ]
+      },
+      "id": "node/10713168291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10734770621",
+        "leisure": "golf_course",
+        "name": "Golfplatz Maria Bildhausen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.295519,
+          50.2801684
+        ]
+      },
+      "id": "node/10734770621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10770933357",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2250288,
+          50.3640181
+        ]
+      },
+      "id": "node/10770933357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10858736683",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4708763,
+          50.3005813
+        ]
+      },
+      "id": "node/10858736683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10901520026",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1116919,
+          51.7204785
+        ]
+      },
+      "id": "node/10901520026"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10911704492",
+        "leisure": "miniature_golf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2577905,
+          51.7107703
+        ]
+      },
+      "id": "node/10911704492"
+    }
+  ]
+}
