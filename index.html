@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Freizeitgestaltung in Deutschland</title>
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js"></script>
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.css" rel="stylesheet" />
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.min.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <!-- Einbindung des CSS-Stylesheets -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+    <!-- Einbindung der Mapbox GL JS-Bibliothek -->
+    <link href='https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css' rel='stylesheet'>
+    <!-- Einbindung des Mapbox GL CSS-Stylesheets -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.js"></script>
+</head>
+
+<body>
+    <div id="icon-container">
+        <a href="https://www.bht-berlin.de/" target="_blank" title="Berliner Hochschule für Technik">
+        <img style="float:right" src="BHT_Logo.png" alt="Berliner Hochschule für Technik" height="60"/>
+    </a>
+    </div>
+    <div id="popup" class="popup">
+        <p style="font-size:14px" align="center">Welcome to our final project
+            <br> for our course "Geodatenhaltung und -vernetzung". </p>
+        <p style="font-size:11px" align="center"> Authors: Tabea Gruenberg & Jessica Wenicker</p>
+        <button onclick="closePopup()" style="margin: 10% auto; display: block;">Let's go!</button>
+    </div>
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.js"></script>
+    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-directions/v4.1.1/mapbox-gl-directions.css" type="text/css">
+    <div class="grid-container">
+        <div class="map-box">
+            <div id="map"></div>
+        </div>
+        <div class="container">
+            <p>
+                <h1>Activities in Germany</h1>
+            </p>
+            <p><b>Looking for activities near you?</b><br><br> Our website provides a list of various activities and their location in Germany.<br>In addition, you can determine your own location and calculate a route.</p>
+        </div>
+        <div id="button-container">
+            <!-- Button "Bowling" mit Klick-Event zum Aktivieren/Deaktivieren der Bowling-Schicht -->
+            <button id="bowling_button" onclick="toggleLayer('bowling_layer', 'bowling_button')">Bowling</button>
+            <!-- Button "Eislaufen" mit Klick-Event zum Aktivieren/Deaktivieren der Eislaufen-Schicht -->
+            <button id="iceskating_button" onclick="toggleLayer('iceskating_layer', 'iceskating_button')">Ice skating</button>
+            <!-- Button "Golf" mit Klick-Event zum Aktivieren/Deaktivieren der Golf-Schicht -->
+            <button id="golf_button" onclick="toggleLayer('golf_layer', 'golf_button')">Golf</button>
+            <!-- Button "Museum" mit Klick-Event zum Aktivieren/Deaktivieren der Museum-Schicht -->
+            <button id="museum_button" onclick="toggleLayer('museum_layer', 'museum_button')">Museum</button>
+            <!-- Button "Theater" mit Klick-Event zum Aktivieren/Deaktivieren der Theater-Schicht -->
+            <button id="theater_button" onclick="toggleLayer('theater_layer', 'theater_button')">Theater</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
